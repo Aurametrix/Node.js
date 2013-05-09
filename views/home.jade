@@ -1,0 +1,13 @@
+-if(account && account.username)
+  h2(style='font-weight:bold;padding-bottom:5px;') Whats going on?
+  form(action='/nod',method='post')
+    textarea(name='nod',style='width:550px;')
+    input(type='submit',value='Nod',style='background-color:#000000;border:solid;border-color:#666666;border-width:1px;color:#E3E3E3;padding:5px;font-weight:bold;cursor:pointer;position:relative;top:-15px;margin-left:5px;')
+
+div(style='width:600px;')
+  -for(var i=0;i<nods.length;i++)
+    div(style='background-color:#000000;padding:10px;margin-top:5px;border:solid;border-color:#666666;border-width:1px;')
+      div
+        a(href='/'+nods[i].username,style='padding-right:10px;')=nods[i].username
+      span=nods[i].text
+      div(style='color:#999999;font-size:12px;')=howLongAgo(nods[i].date)+' ago'
