@@ -1,6 +1,9 @@
-// sorting a disordered stack of pancakes in order of size when a spatula can be inserted at any point
-// to flip all pancakes above it
-// can provide an effective routing algorithm between processors in parallel processor network
+/*
+Sorting a disordered stack of pancakes in order of size when a spatula can be inserted at any point to flip all pancakes above it
+NP-hard problem: any stack can be flipped in  O(n) - 2n−3 flips but 18/11 n is possible.
+Can provide an effective routing algorithm between processors in parallel processor network
+*/
+
 
 Array.prototype.pancake_sort = function () {
     for (var i = this.length - 1; i >= 1; i--) {
