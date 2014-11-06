@@ -1,0 +1,57 @@
+// better to use the "var" keyword for declaring variables
+
+if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+  var xmlhttp = new XMLHttpRequest();
+} else { // code for IE6, IE5
+  var xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+}
+
+// use the advantages of asynchronous processing!
+xmlhttp.open("GET", "books.xml", true);
+
+xmlhttp.onreadystatechange = function () {
+  if (xmlhttp.readyState != 4)  { return; }
+
+  // be defensive! (you could also add an error message here)
+  if (xmlhttp.statusCode != 200 || !xmlhttp.responseXML) { return; }
+
+  var xmlDoc = xmlhttp.responseXML; 
+
+  // do not build HTML with document.write(), use the DOM!
+  // (see helper function "e" below)
+  var body  = document.getElementsByTagName("body")[0];
+  var table = e("table", body);
+  table.border = 1;
+
+  // do not use meaningless single-letter variable names like "x"
+  var steps = xmlDoc.getElementsByTagName("StepName");
+  for (var i=0; i<steps.length; i++) {
+    var step = steps[i];
+    var tr = e("tr", table);
+    e("td", tr, step.getAttribute("name"));
+    e("td", tr, step.getElementsByTagName("StepStatus")[0].childNodes[0].nodeValue);
+    e("td", tr, step.getElementsByTagName("StepDescription")[0].childNodes[0].nodeValue);
+  }
+};
+xmlhttp.send();
+
+// helper function to build HTML elements with the DOM
+function e(name, parentNode, text) {
+  var elem = document.createElement(name);
+  if (typeof text === "string") {
+    if (elem.hasOwnProperty("textContent")) {
+      elem.textContent = text;
+    } else if (elem.hasOwnProperty("innerText")) {
+      elem.innerText = text;
+    }
+  }
+  if (parentNode && parentNode.nodeName) {
+    parentNode.appendChild(e);
+  }
+  return elem;
+}
+
+//
+//xmlhttp.open("GET","books.xml",false);
+//xmlhttp.send();
+//xmlDoc=xmlhttp.responseXML;
