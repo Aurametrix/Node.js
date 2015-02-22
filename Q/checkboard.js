@@ -15,21 +15,23 @@ const Game = (size = 8) => {
     2 + Math.floor(Math.random() * (size - 4))
   ];
   
-  // ???
-  let [x, y] = initialPosition;
+  return ({
+    [Symbol.iterator]: function* () {
+      let [x, y] = initialPosition;
   
-  const MOVE = {
-    "←": ([x, y]) => [x - 1, y],
-    "→": ([x, y]) => [x + 1, y],
-    "↓": ([x, y]) => [x, y - 1],
-    "↑": ([x, y]) => [x, y + 1] 
-  };
-  while (x >= 0 && y >=0 && x < size && y < size) {
-    const arrow = board[x][y];
-    
-    // ???
-    
-    [x, y] = MOVE[arrow]([x, y]);
-  }
-  // ???
+      const MOVE = {
+        "←": ([x, y]) => [x - 1, y],
+        "→": ([x, y]) => [x + 1, y],
+        "↓": ([x, y]) => [x, y - 1],
+        "↑": ([x, y]) => [x, y + 1] 
+      };
+      
+      while (x >= 0 && y >=0 && x < size && y < size) {
+        const arrow = board[x][y];
+        
+        yield arrow;
+        [x, y] = MOVE[arrow]([x, y]);
+      }
+    }
+  });
 };
