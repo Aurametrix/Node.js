@@ -1,20 +1,26 @@
-function contains(a, b) {
-  return a.indexOf(b) > -1;
-}
-
-function stringToOrdinal(str) {
-  var result = ""
-  for (var i = 0, len = str.length; i < len; i++) {
-    result += charToNumber(str[i]);
+function init(options) {
+  
+  function charToNumber(char) {
+    return char.charCodeAt(0) - 96;
   }
-  return result;
+  
+  function StringManipulation() {
+  }
+  
+  var stringManipulation = new StringManipulation();
+  
+  stringManipulation.contains = function(a, b) {
+    return a.indexOf(b) > -1;
+  };
+  
+  stringManipulation.stringToOrdinal = function(str) {
+    var result = ""
+    for (var i = 0, len = str.length; i < len; i++) {
+      result += charToNumber(str[i]);
+    }
+    return result;
+  }
+  return stringManipulation;
 }
 
-function charToNumber(char) {
-  return char.charCodeAt(0) - 96;
-}
-
-module.exports = {
-  contains: contains,
-  stringToOrdinal: stringToOrdinal
-}
+module.exports = init;
