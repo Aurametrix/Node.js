@@ -1,0 +1,7 @@
+### Create GraphQL API with graphcool
+
+# Install Graphcool CLI
+npm install -g graphcool
+
+# Create a new project based on the Instagram schema
+graphcool init --schema http://graphqlbin.com/instagram.graphql
