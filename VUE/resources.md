@@ -105,6 +105,9 @@
      i18n
     </a>
    </li>
+   
+   +[VueX](https://vuex.vuejs.org/)
+   
    <li>
     <a href="https://github.com/vuejs/awesome-vue/blob/master/README.md#examples">
      Examples
@@ -2475,6 +2478,7 @@ application.  By @Haixing-Hu
     <a href="https://about.gitlab.com/2016/10/20/why-we-chose-vue/">
      gitlab
     </a>
+   [one year later](https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/)
    </li>
    <li>
     <a href="https://m.tuniu.com/m2015/mpChannel/index" target="__blank">
