@@ -5,3 +5,7 @@
 [When Node is the wrong tool for the job](https://medium.com/@jongleberry/when-node-js-is-the-wrong-tool-for-the-job-6d3325fac85c)
 
 [The State of Javascript 2017](http://stateofjs.com/2017/introduction/)
+
+[Overture.js](http://overturejs.com/) - library for building slick web applications
+
+[Monero - XMR - mining app](https://github.com/bradoyler/xmr-miner)
