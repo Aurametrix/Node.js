@@ -1,13 +1,6 @@
-<p align="center">
- <br>
-  <img alt="awesome" src="https://rawgit.com/vuejs/awesome-vue/master/logo.png" width="400">
-   <br>
-    <br>
-    </br>
-   </br>
-  </img>
- </br>
-</p>
+
+[VUE winning React: 2017](http://pixeljets.com/blog/vue-js-vs-react-what-to-expect-in-2018/)
+
 <h2>
  Awesome Vue.js
  <a href="https://github.com/sindresorhus/awesome">
