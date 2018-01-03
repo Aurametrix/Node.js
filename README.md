@@ -9,3 +9,6 @@
 [Overture.js](http://overturejs.com/) - library for building slick web applications
 
 [Monero - XMR - mining app](https://github.com/bradoyler/xmr-miner)
+
+
+[Stimulus - a modest JavaScript framework for the HTML you already have](https://github.com/stimulusjs/stimulus/) / [hn](https://news.ycombinator.com/item?id=16052105)
