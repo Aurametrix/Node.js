@@ -19,4 +19,6 @@
 
 [Effective Javascript](http://effectivejs.com/)
 
+[D3 - Js library for working with data and shapes](http://d3indepth.com/)
+
 [Crockford lectures on JS](https://www.youtube.com/watch?v=JxAXlJEmNMg)
