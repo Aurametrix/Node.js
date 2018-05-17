@@ -22,3 +22,5 @@
 [D3 - Js library for working with data and shapes](http://d3indepth.com/)
 
 [Crockford lectures on JS](https://www.youtube.com/watch?v=JxAXlJEmNMg)
+
+[SQLite with Node.js Tutorial](http://stackabuse.com/a-sqlite-tutorial-with-node-js/)
