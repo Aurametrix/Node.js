@@ -128,6 +128,9 @@
    </li>
   </ul>
  </li>
+ 
+[replacing jQuery with Vue.js](https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/)
+ 
  <li>
   <a href="https://github.com/vuejs/awesome-vue/blob/master/README.md#projects-using-vuejs">
    Projects Using Vue.js
