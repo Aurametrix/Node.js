@@ -19,6 +19,10 @@
 
 [Effective Javascript](http://effectivejs.com/)
 
++ Performance optimization
+   * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
+
+
 [D3 - Js library for working with data and shapes](http://d3indepth.com/)
 
 [Crockford lectures on JS](https://www.youtube.com/watch?v=JxAXlJEmNMg)
