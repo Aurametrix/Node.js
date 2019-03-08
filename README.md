@@ -30,3 +30,5 @@
 [Crockford lectures on JS](https://www.youtube.com/watch?v=JxAXlJEmNMg)
 
 [SQLite with Node.js Tutorial](http://stackabuse.com/a-sqlite-tutorial-with-node-js/)
+
+[HTTP Keep-Alive](https://lob.com/blog/use-http-keep-alive); [benchmarks](https://github.com/mgartner/node-keep-alive-benchmark)
