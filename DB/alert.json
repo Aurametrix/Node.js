@@ -1,0 +1,91 @@
+{
+    "trigger": {
+        "schedule": {
+            "interval": "5m"
+        }
+    },
+    "input": {
+        "search": {
+            "request": {
+                "body": {
+                    "size": 0,
+                    "query": {
+                        "bool": {
+                            "must": [
+                                {
+                                    "term": {
+                                        "context.system.hostname": "selectel-app"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "transaction.type": "request"
+                                    }
+                                },
+                                {
+                                    "range": {
+                                        "transaction.duration.us": {
+                                            "gte": 10000000
+                                        }
+                                    }
+                                },
+                                {
+                                    "range": {
+                                        "@timestamp": {
+                                            "gte": "now-5m",
+                                            "lt": "now"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "aggs": {
+                        "group_by_route": {
+                            "terms": {
+                                "field": "transaction.name.keyword",
+                                "size": 5
+                            },
+                            "aggs": {
+                                "max_resp_time": {
+                                    "max": {
+                                        "field": "transaction.duration.us",
+                                        "script": {
+                                            "lang": "painless",
+                                            "source": "_value / 1000000"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "indices": [
+                    "apm*"
+                ]
+            }
+        }
+    },
+    "condition": {
+        "compare": {
+            "ctx.payload.hits.total": {
+                "gt": 0
+            }
+        }
+    },
+    "actions": {
+        "integram": {
+            "throttle_period_in_millis": 1000,
+            "webhook": {
+                "scheme": "https",
+                "host": "******.com",
+                "port": 443,
+                "method": "post",
+                "path": "/webhook/*********",
+                "params": {},
+                "headers": {},
+                "body": "{\"text\":\"API RESP TIME > 10s ({{#ctx.payload.aggregations.group_by_route.buckets}}{{key}}: {{doc_count}} responses (max resp time: {{max_resp_time.value}});{{/ctx.payload.aggregations.group_by_route.buckets}})\"}"
+            }
+        }
+    }
+}
