@@ -34,3 +34,8 @@
 [HTTP Keep-Alive](https://lob.com/blog/use-http-keep-alive); [benchmarks](https://github.com/mgartner/node-keep-alive-benchmark)
 
 [HTTP/2](https://nodejs.org/api/http2.html#http2_http_2)
+
+#### Typescript
+
+ language of choice for [Home Assistant](https://developers.home-assistant.io/blog/2019/05/22/internet-of-things-and-the-modern-web.html) 
+
