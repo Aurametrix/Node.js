@@ -35,6 +35,8 @@
 
 [HTTP/2](https://nodejs.org/api/http2.html#http2_http_2)
 
+[Not Java script](https://observablehq.com/@observablehq/observables-not-javascript)
+
 #### Typescript
 
  language of choice for [Home Assistant](https://developers.home-assistant.io/blog/2019/05/22/internet-of-things-and-the-modern-web.html) 
