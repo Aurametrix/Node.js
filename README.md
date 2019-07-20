@@ -35,6 +35,8 @@
 
 [HTTP/2](https://nodejs.org/api/http2.html#http2_http_2)
 
+[SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
+
 [Not Java script](https://observablehq.com/@observablehq/observables-not-javascript)
 
 #### Typescript
