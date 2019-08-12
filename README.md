@@ -24,6 +24,7 @@
 + Performance optimization
    * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
 
+[TEsting best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 [D3 - Js library for working with data and shapes](http://d3indepth.com/)
 
