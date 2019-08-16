@@ -6,5 +6,7 @@
 
 + [React codebase generator](https://divjoy.com/)
 
++ [React Developer Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
+
 + [Ant - a UI Design language](https://ant.design/docs/react/introduce)
 
