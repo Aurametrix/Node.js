@@ -2,6 +2,8 @@
 
 [D3 on github](https://github.com/d3)
 
+[Bivariate maps with React and D3](https://github.com/angelozehr/bivariate-maps-react-d3)
+
 [DC](https://github.com/dc-js/dc.js), dimensional charting
 
 [JSC Charting](https://jscharting.com/)
@@ -18,4 +20,4 @@
 
 [KoolChart](https://www.koolchart.com/)
 
-Chart.js[](https://www.chartjs.org/)
+[Chart.js](https://www.chartjs.org/)
