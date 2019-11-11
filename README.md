@@ -24,9 +24,11 @@
 + Performance optimization
    * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
 
-[TEsting best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+[Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 [D3 - Js library for working with data and shapes](http://d3indepth.com/)
+
+[paged.js](https://www.pagedmedia.org/paged-js/) - paginating content: books in the browser 
 
 [Crockford lectures on JS](https://www.youtube.com/watch?v=JxAXlJEmNMg)
 
