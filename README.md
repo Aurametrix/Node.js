@@ -46,3 +46,4 @@
 
  language of choice for [Home Assistant](https://developers.home-assistant.io/blog/2019/05/22/internet-of-things-and-the-modern-web.html) 
 
+{](https://github.com/mmazzarolo/ordinary-puzzles-app)
