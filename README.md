@@ -50,3 +50,4 @@
 
 
 [Web Audio API](https://github.com/sebpiq/WebPd)
+[Apple music player](https://developer.apple.com/documentation/musickitjs)
