@@ -51,3 +51,7 @@
 
 [Web Audio API](https://github.com/sebpiq/WebPd)
 [Apple music player](https://developer.apple.com/documentation/musickitjs)
+
+#### Interesting Projects
+
+[Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
