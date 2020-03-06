@@ -48,6 +48,7 @@
 
 {Ordinary Puzzles mobile game](https://github.com/mmazzarolo/ordinary-puzzles-app)
 
+[CLUI](https://github.com/replit/clui) -  a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete / see also - building a [graphical command line](https://blog.repl.it/clui)
 
 [Web Audio API](https://github.com/sebpiq/WebPd)
 [Apple music player](https://developer.apple.com/documentation/musickitjs)
