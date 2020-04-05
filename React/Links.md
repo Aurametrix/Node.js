@@ -8,5 +8,10 @@
 
 + [React Developer Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 
-+ [Ant - a UI Design language](https://ant.design/docs/react/introduce)
++ [33-line React](https://leontrolski.github.io/33-line-react.html)
++ [Build your own React](https://pomb.us/build-your-own-react/)
+
+
+
++ [Ant - a UI Design language of React](https://ant.design/docs/react/introduce)
 
