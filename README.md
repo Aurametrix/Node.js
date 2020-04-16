@@ -54,6 +54,8 @@
 [Web Audio API](https://github.com/sebpiq/WebPd)
 [Apple music player](https://developer.apple.com/documentation/musickitjs)
 
+[2020](https://www.executeprogram.com/blog/problems-with-typescript-in-2020)
+
 #### Interesting Projects
 
 [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
