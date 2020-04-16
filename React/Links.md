@@ -11,7 +11,7 @@
 + [33-line React](https://leontrolski.github.io/33-line-react.html)
 + [Build your own React](https://pomb.us/build-your-own-react/)
 
-
++ [Landing Page template](https://github.com/cruip/open-react-template) - example project, try Gatsby instead
 
 + [Ant - a UI Design language of React](https://ant.design/docs/react/introduce)
 
