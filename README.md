@@ -61,3 +61,4 @@
 #### Interesting Projects
 
 [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
+[JS parser](https://github.com/KFlash/seafox)
