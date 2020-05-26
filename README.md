@@ -62,4 +62,5 @@
 
 [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 [JS parser](https://github.com/KFlash/seafox)
+[COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
 [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
