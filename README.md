@@ -27,6 +27,8 @@
 
 [Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
+[strange behavior](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
+
 [D3 - Js library for working with data and shapes](http://d3indepth.com/)
 
 [paged.js](https://www.pagedmedia.org/paged-js/) - paginating content: books in the browser 
