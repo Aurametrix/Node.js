@@ -27,6 +27,8 @@
 
 [Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
+[SRP Testing](https://cri.dev/posts/2020-05-20-Testing-in-Nodejs-by-example-using-the-SOLID-principles/)
+
 [strange behavior](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
 
 [D3 - Js library for working with data and shapes](http://d3indepth.com/)
@@ -58,12 +60,12 @@
 [Web Audio API](https://github.com/sebpiq/WebPd)
 [Apple music player](https://developer.apple.com/documentation/musickitjs)
 
-[2020](https://www.executeprogram.com/blog/problems-with-typescript-in-2020)
+[Problems in 2020](https://www.executeprogram.com/blog/problems-with-typescript-in-2020)
 
 #### Interesting Projects
 
-[Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
-[JS parser](https://github.com/KFlash/seafox)
-[COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
-[Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
-[TEsting in Node.js](https://cri.dev/posts/2020-05-20-Testing-in-Nodejs-by-example-using-the-SOLID-principles/)
++ [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
++ [JS parser](https://github.com/KFlash/seafox)
++ [COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
++ [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
++ [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
