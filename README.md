@@ -66,3 +66,4 @@
 [JS parser](https://github.com/KFlash/seafox)
 [COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
 [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
+[TEsting in Node.js](https://cri.dev/posts/2020-05-20-Testing-in-Nodejs-by-example-using-the-SOLID-principles/)
