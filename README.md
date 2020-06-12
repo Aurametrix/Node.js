@@ -27,6 +27,8 @@
 
 [Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
+[security code scanner](https://github.com/ajinabraham/nodejsscan)
+
 [SRP Testing](https://cri.dev/posts/2020-05-20-Testing-in-Nodejs-by-example-using-the-SOLID-principles/)
 
 [strange behavior](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
