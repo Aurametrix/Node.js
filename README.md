@@ -47,6 +47,8 @@
 
 [SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 
+[](https://www.twilio.com/quest)  - game to help learn Javascript
+
 [Not Java script](https://observablehq.com/@observablehq/observables-not-javascript)
 
 [Eloquent JS](https://eloquentjavascript.net/)
