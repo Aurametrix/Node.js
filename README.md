@@ -72,6 +72,7 @@
 
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 + [JS parser](https://github.com/KFlash/seafox)
++ [1K JS demos](https://js1024.fun/results/2020)
 + [COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
 + [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
