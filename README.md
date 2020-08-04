@@ -74,6 +74,7 @@
 + [JS parser](https://github.com/KFlash/seafox)
 + [1K JS demos](https://js1024.fun/results/2020)
 + [uPlot](https://github.com/leeoniya/uPlot)
++ [Slider](https://adit.co.uk/sliderulev2.html)
 + [COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
 + [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
