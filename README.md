@@ -57,7 +57,7 @@
 
  language of choice for [Home Assistant](https://developers.home-assistant.io/blog/2019/05/22/internet-of-things-and-the-modern-web.html) 
 
-{Ordinary Puzzles mobile game](https://github.com/mmazzarolo/ordinary-puzzles-app)
+[Ordinary Puzzles mobile game](https://github.com/mmazzarolo/ordinary-puzzles-app)
 
 [CLUI](https://github.com/replit/clui) -  a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete / see also - building a [graphical command line](https://blog.repl.it/clui)
 
@@ -66,7 +66,10 @@
 
 [Kretes](https://kretes.dev/) - TypeScript + PostgreSQL
 
+[Typed JavaScript at Any Scale](typescriptlang.org) - [announcement](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/)
+
 [Problems in 2020](https://www.executeprogram.com/blog/problems-with-typescript-in-2020)
+
 
 #### Interesting Projects
 
