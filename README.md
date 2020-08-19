@@ -76,6 +76,7 @@
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 + [JS parser](https://github.com/KFlash/seafox)
 + [1K JS demos](https://js1024.fun/results/2020)
++ [handwritten.js](https://github.com/alias-rahil/handwritten.js#README.md)
 + [uPlot](https://github.com/leeoniya/uPlot)
 + [Slider](https://adit.co.uk/sliderulev2.html)
 + [COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
