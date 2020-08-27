@@ -22,6 +22,10 @@
 
 [Effective Javascript](http://effectivejs.com/)
 
+[ztext](https://bennettfeely.com/ztext/) - turns fonts 3D
+
+
+
 + Performance optimization
    * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
 
@@ -34,6 +38,8 @@
 [strange behavior](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
 
 [D3 - Js library for working with data and shapes](http://d3indepth.com/)
+
+[D3](https://github.com/d3/d3/blob/master/CHANGES.md) - 6.0
 
 [paged.js](https://www.pagedmedia.org/paged-js/) - paginating content: books in the browser 
 
