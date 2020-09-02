@@ -81,6 +81,7 @@
 
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 + [JS parser](https://github.com/KFlash/seafox)
++ [another JS parser generator](https://github.com/gosukiwi/Pasukon) - [front page](https://pasukon.rocks/)
 + [1K JS demos](https://js1024.fun/results/2020)
 + [handwritten.js](https://github.com/alias-rahil/handwritten.js#README.md)
 + [uPlot](https://github.com/leeoniya/uPlot)
