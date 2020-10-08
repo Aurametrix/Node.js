@@ -94,5 +94,6 @@
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
 + [Sentiment Analysis with Node.js](https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2)
 + [A DOS JavaScript Canvas with sound](https://github.com/SuperIlu/DOjS)
++ [CLI imge optimization tool](https://github.com/funbox/optimizt)
 + [Skia Canvas](https://github.com/samizdatco/skia-canvas)  - browser-less implementation of the HTML Canvas drawing API for Node.js
 
