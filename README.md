@@ -73,6 +73,8 @@
     
 [Apple music player](https://developer.apple.com/documentation/musickitjs)
 
+[Video processing](https://github.com/yuanqing/vdx)
+
 [Kretes](https://kretes.dev/) - TypeScript + PostgreSQL
 
 [Typed JavaScript at Any Scale](typescriptlang.org) - [announcement](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/)
