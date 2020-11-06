@@ -100,4 +100,5 @@
 + [CLI imge optimization tool](https://github.com/funbox/optimizt)
 + [Skia Canvas](https://github.com/samizdatco/skia-canvas)  - browser-less implementation of the HTML Canvas drawing API for Node.js
 + [Puppeteer web scraping](https://www.openfaas.com/blog/puppeteer-scraping/)
++ [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
 
