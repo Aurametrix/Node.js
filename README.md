@@ -24,7 +24,7 @@
 
 [ztext](https://bennettfeely.com/ztext/) - turns fonts 3D
 
-
+[Web-based note taking](https://github.com/taniarascia/takenote)
 
 + Performance optimization
    * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
@@ -53,7 +53,7 @@
 
 [SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 
-[](https://www.twilio.com/quest)  - game to help learn Javascript
+[Quest](https://www.twilio.com/quest)  - game to help learn Javascript
 
 [Not Java script](https://observablehq.com/@observablehq/observables-not-javascript)
 
@@ -69,7 +69,7 @@
 
 [Web Audio API](https://github.com/sebpiq/WebPd)
 
-    + seel also [Web APIs](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
+    + see also [Web APIs](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
     
 [Apple music player](https://developer.apple.com/documentation/musickitjs)
 
