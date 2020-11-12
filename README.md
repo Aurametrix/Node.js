@@ -51,6 +51,8 @@
 
 [HTTP/2](https://nodejs.org/api/http2.html#http2_http_2)
 
+[seelf-hosted offline Internet from browser history](https://github.com/c9fe/22120)
+
 [SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 
 [Quest](https://www.twilio.com/quest)  - game to help learn Javascript
