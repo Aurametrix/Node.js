@@ -101,6 +101,7 @@
 + [Sentiment Analysis with Node.js](https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2)
 + [A DOS JavaScript Canvas with sound](https://github.com/SuperIlu/DOjS)
 + [CLI imge optimization tool](https://github.com/funbox/optimizt)
++ [Stimulus.js](https://discourse.stimulusjs.org/t/announcing-stimulus-2-0/1482)
 + [Skia Canvas](https://github.com/samizdatco/skia-canvas)  - browser-less implementation of the HTML Canvas drawing API for Node.js
 + [Puppeteer web scraping](https://www.openfaas.com/blog/puppeteer-scraping/)
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
