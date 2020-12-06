@@ -14,7 +14,8 @@
 
 [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs)
 
-[Stimulus - a modest JavaScript framework for the HTML you already have](https://github.com/stimulusjs/stimulus/) / [hn](https://news.ycombinator.com/item?id=16052105)
+[Stimulus.js](https://discourse.stimulusjs.org/t/announcing-stimulus-2-0/1482) - augment HTML with just enough behavior
+[v1](https://github.com/stimulusjs/stimulus/) / [v2](https://github.com/stimulusjs/stimulus/releases/tag/v2.0.0)
 
 [Modern JS explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
@@ -101,7 +102,6 @@
 + [Sentiment Analysis with Node.js](https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2)
 + [A DOS JavaScript Canvas with sound](https://github.com/SuperIlu/DOjS)
 + [CLI imge optimization tool](https://github.com/funbox/optimizt)
-+ [Stimulus.js](https://discourse.stimulusjs.org/t/announcing-stimulus-2-0/1482)
 + [Skia Canvas](https://github.com/samizdatco/skia-canvas)  - browser-less implementation of the HTML Canvas drawing API for Node.js
 + [Puppeteer web scraping](https://www.openfaas.com/blog/puppeteer-scraping/)
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
