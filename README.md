@@ -23,6 +23,8 @@
 
 [Effective Javascript](http://effectivejs.com/)
 
+[The Modern Javascript tutorial](https://javascript.info/)
+
 [ztext](https://bennettfeely.com/ztext/) - turns fonts 3D
 
 [Web-based note taking](https://github.com/taniarascia/takenote)
