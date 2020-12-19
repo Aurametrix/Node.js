@@ -105,6 +105,7 @@
 + [A DOS JavaScript Canvas with sound](https://github.com/SuperIlu/DOjS)
 + [CLI imge optimization tool](https://github.com/funbox/optimizt)
 + [Skia Canvas](https://github.com/samizdatco/skia-canvas)  - browser-less implementation of the HTML Canvas drawing API for Node.js
++ [Ganja.js](https://github.com/enkimute/ganja.js) - geometric algebra code genereator
 + [Puppeteer web scraping](https://www.openfaas.com/blog/puppeteer-scraping/)
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
 
