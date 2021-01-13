@@ -98,6 +98,7 @@
 + [uPlot](https://github.com/leeoniya/uPlot)
 + [Slider](https://adit.co.uk/sliderulev2.html)
 + [COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
++ [CDC OpenViz](https://github.com/CDCgov/cdc-open-viz) - packages for data visualization
 + [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
 + [UL shortener](https://github.com/nelsontky/gh-pages-url-shortener)
