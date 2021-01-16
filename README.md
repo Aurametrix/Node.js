@@ -63,6 +63,7 @@
 [Not Java script](https://observablehq.com/@observablehq/observables-not-javascript)
 
 [Eloquent JS](https://eloquentjavascript.net/)
+[State of Javascript](https://2020.stateofjs.com/en-US/)
 
 #### Typescript
 
@@ -98,6 +99,7 @@
 + [uPlot](https://github.com/leeoniya/uPlot)
 + [Slider](https://adit.co.uk/sliderulev2.html)
 + [COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
++ [Coronavirus Vaccine Progress in England](https://covid-vaccine.louisirwin.co.uk/) - [code](https://github.com/lirwin3007/covid-vax) - [data](https://coronavirus.data.gov.uk/details/developers-guide)
 + [CDC OpenViz](https://github.com/CDCgov/cdc-open-viz) - packages for data visualization
 + [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
