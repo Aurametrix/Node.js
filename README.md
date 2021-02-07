@@ -64,6 +64,7 @@
 
 [Eloquent JS](https://eloquentjavascript.net/)
 [State of Javascript](https://2020.stateofjs.com/en-US/)
+[Don't use functions as callbacks](https://jakearchibald.com/2021/function-callback-risks/)
 
 #### Typescript
 
