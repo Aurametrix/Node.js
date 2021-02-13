@@ -31,6 +31,8 @@
 
 + Performance optimization
    * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
+   
+ [Node.js 14.x runtime in AWS Lambda](https://aws.amazon.com/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/)
 
 [Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
