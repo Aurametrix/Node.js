@@ -117,3 +117,4 @@
 + [Puppeteer web scraping](https://www.openfaas.com/blog/puppeteer-scraping/)
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
 
++ [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
