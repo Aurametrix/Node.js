@@ -47,6 +47,8 @@
 [D3 - Js library for working with data and shapes](http://d3indepth.com/)
 
 [D3](https://github.com/d3/d3/blob/master/CHANGES.md) - 6.0
+[Visualization with D3](https://datacrayon.com/shop/product/visualisation-with-d3/)
+[React + D3.js](https://wattenberger.com/blog/react-and-d3) 
 
 [paged.js](https://www.pagedmedia.org/paged-js/) - paginating content: books in the browser 
 
