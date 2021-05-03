@@ -106,6 +106,7 @@
 + [uPlot](https://github.com/leeoniya/uPlot)
 + [Slider](https://adit.co.uk/sliderulev2.html)
 + [COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
++ [Microcovid](https://github.com/microcovid/microcovid) -- microcovid.org
 + [Coronavirus Vaccine Progress in England](https://covid-vaccine.louisirwin.co.uk/) - [code](https://github.com/lirwin3007/covid-vax) - [data](https://coronavirus.data.gov.uk/details/developers-guide)
 + [CDC OpenViz](https://github.com/CDCgov/cdc-open-viz) - packages for data visualization
 + [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
