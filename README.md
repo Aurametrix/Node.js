@@ -23,6 +23,8 @@
 
 [Effective Javascript](http://effectivejs.com/)
 
+[ENV](https://humanwhocodes.com/blog/2021/02/introducing-env-javascript-environment-variables/): a better way to read environment variables in JavaScript
+
 [The Modern Javascript tutorial](https://javascript.info/)
 
 [ztext](https://bennettfeely.com/ztext/) - turns fonts 3D
