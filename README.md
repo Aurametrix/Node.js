@@ -124,3 +124,4 @@
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [JS for shell scripting](https://github.com/google/zx)
++ [Shelljs](https://github.com/shelljs/shelljs) - portable Unix shell commands
