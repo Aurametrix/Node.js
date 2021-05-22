@@ -20,3 +20,14 @@ The INR method was developed to standardize prothrombin time (PT) results betwee
 
 Home INR monitors are designed to aid in the management of high-risk patients taking oral anticoagulants.
 
+
+Gut Microbiome Analysis with KNIME Analytics Platform - The workflow ultimately produces a JavaScript visualization
+https://www.knime.com/blog/gut-microbiome-analysis-with-knime-analytics-platform
+
+Project name: iMicrobe
+
+Project home page: https://imicrobe.us
+
+Documentation: https://hurwitzlab.gitbook.io/imicrobe/
+
+Source code: https://github.com/hurwitzlab/elm-imicrobe-spa, https://github.com/hurwitzlab/node-imicrobe
