@@ -126,6 +126,7 @@
 + [Ganja.js](https://github.com/enkimute/ganja.js) - geometric algebra code genereator
 + [Puppeteer web scraping](https://www.openfaas.com/blog/puppeteer-scraping/)
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
++ [Convert your excel sheet into Node.js app](https://recast.amplication.com/); [code](https://github.com/amplication/amplication)
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [JS for shell scripting](https://github.com/google/zx)
