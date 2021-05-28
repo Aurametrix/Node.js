@@ -1,4 +1,5 @@
 [v11.11.0](https://nodejs.org/en/blog/release/v11.11.0/)
+[Node.js turns 12](https://twitter.com/nodejs/status/1397914989931864080)
 
 [Node.js](https://nodejs.org/en/)
 
@@ -34,6 +35,7 @@
 [ztext](https://bennettfeely.com/ztext/) - turns fonts 3D
 
 [Web-based note taking](https://github.com/taniarascia/takenote)
+
 
 + Performance optimization
    * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
@@ -118,7 +120,8 @@
 + [CDC OpenViz](https://github.com/CDCgov/cdc-open-viz) - packages for data visualization
 + [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
-+ [UL shortener](https://github.com/nelsontky/gh-pages-url-shortener)
++ [URL shortener](https://github.com/nelsontky/gh-pages-url-shortener)
++ [JSON logic](https://jsonlogic.com/)
 + [Sentiment Analysis with Node.js](https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2)
 + [A DOS JavaScript Canvas with sound](https://github.com/SuperIlu/DOjS)
 + [CLI imge optimization tool](https://github.com/funbox/optimizt)
