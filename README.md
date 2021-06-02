@@ -110,6 +110,7 @@
 + [another JS parser generator](https://github.com/gosukiwi/Pasukon) - [front page](https://pasukon.rocks/)
 + [1K JS demos](https://js1024.fun/results/2020)
 + [handwritten.js](https://github.com/alias-rahil/handwritten.js#README.md)
++ [ECMAScript2022](https://tc39.es/proposal-relative-indexing-method/) - array prototype.at
 + [Web scraping](https://qoob.cc/web-scraping/)
 + [HN-blacklist](https://github.com/booleandilemma/hn-blacklist)
 + [uPlot](https://github.com/leeoniya/uPlot)
