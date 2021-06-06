@@ -24,3 +24,5 @@
 
 
 [Interactive Gaussian Process Visualization](http://www.infinitecuriosity.org/vizgp/) - [code](https://github.com/st--/interactive-gp-visualization/) -  built using Svelte, D3.js, and ml-matrix
+0
+[vizualization of city roads](https://anvaka.github.io/city-roads/); (code)[https://github.com/anvaka/city-roads]
