@@ -3,6 +3,7 @@
 + [Racket-style Higher-Order Contracts in Plain JavaScript](https://github.com/sefaira/rho-contracts.js)
 + [React, building web apps with hava script](https://www.reddit.com/r/reactjs/)
 + [from React to a more sophisticated state management solution such as Redux](https://www.robinwieruch.de/learn-react-before-using-redux/)
++ [The plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
 
 + [React codebase generator](https://divjoy.com/)
 
