@@ -78,7 +78,11 @@
 [Not Java script](https://observablehq.com/@observablehq/observables-not-javascript)
 
 [Eloquent JS](https://eloquentjavascript.net/)
+
+[Deep JS](https://exploringjs.com/deep-js/toc.html)
+
 [State of Javascript](https://2020.stateofjs.com/en-US/)
+
 [Don't use functions as callbacks](https://jakearchibald.com/2021/function-callback-risks/)
 
 #### Typescript
