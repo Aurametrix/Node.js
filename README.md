@@ -12,7 +12,11 @@
 [When Node is the wrong tool for the job](https://medium.com/@jongleberry/when-node-js-is-the-wrong-tool-for-the-job-6d3325fac85c)
 
 [The State of Javascript 2017](http://stateofjs.com/2017/introduction/)
+
 [Modern Javascript: Everything you missed over the last 10 years](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) /2020/
+
+[Modern JS](https://modernjs.fyi/); [tutorial](https://javascript.info/)
+
 
 [Overture.js](http://overturejs.com/) - library for building slick web applications
 
