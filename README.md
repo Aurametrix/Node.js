@@ -144,6 +144,7 @@
 + [Voice assistant for VScode](https://github.com/b4rtaz/voice-assistant); [server code](https://github.com/b4rtaz/voice-assistant-net-server/blob/master/VoiceAssistant.Server/SpeechToText/SpeechToTextService.cs#L17)
 + [ Zoom / Teams Open Source alternative for online learning](https://github.com/fmeringdal/nettu-meet)
 + [HTML & CSS techniques ti reduce your JS](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
++ [A/B testing framework](https://github.com/growthbook/growthbook)
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [JS for shell scripting](https://github.com/google/zx)
