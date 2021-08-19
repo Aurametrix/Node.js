@@ -121,6 +121,8 @@
 + [handwritten.js](https://github.com/alias-rahil/handwritten.js#README.md)
 + [ECMAScript2022](https://tc39.es/proposal-relative-indexing-method/) - array prototype.at
 + [Web scraping](https://qoob.cc/web-scraping/)
++ [scraping wikipedia](https://billpg.com/data-mining-wikipedia/),  [ wikipedia markup parser](https://github.com/spencermountain/wtf_wikipedia)
++ [Raw XML dumps](https://dumps.wikimedia.org), [fully-featured API with a nice sandbox](https://en.wikipedia.org/wiki/Special:ApiSandbox), [Wikidata](https://wikidata.org).
 + [HN-blacklist](https://github.com/booleandilemma/hn-blacklist)
 + [uPlot](https://github.com/leeoniya/uPlot)
 + [Slider](https://adit.co.uk/sliderulev2.html)
