@@ -156,6 +156,7 @@
 + [Lemonadejs](https://lemonadejs.net/v1/) - a microlibrary for building web interfaces
 + [Alpinejs](https://alpinejs.dev/) - Vue without components
 + [Self-hosted LISP for Lua and JS](https://github.com/sctb/lumen)
++ [ChowJS](https://mp2.dk/techblog/chowjs/) - an AOT JavaScript engine for game consoles
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [JS for shell scripting](https://github.com/google/zx)
