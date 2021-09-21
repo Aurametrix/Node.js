@@ -63,6 +63,8 @@
 [Visualization with D3](https://datacrayon.com/shop/product/visualisation-with-d3/)
 [React + D3.js](https://wattenberger.com/blog/react-and-d3) 
 
+[jspaint in a browser](https://github.com/i5ik/jspaint.exe)
+
 [paged.js](https://www.pagedmedia.org/paged-js/) - paginating content: books in the browser 
 
 [Crockford lectures on JS](https://www.youtube.com/watch?v=JxAXlJEmNMg)
