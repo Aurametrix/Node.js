@@ -18,5 +18,6 @@
 
 + [Vuera](https://github.com/akxcv/vuera)  - useed in weweb.io; to put vue in WordPress (Vue.js for web interfaces, one-page applications, desktop and mobile app development with Electron framework)
 + [Twitter's html produced by REACT](https://giuseppegurgone.com/twitter-html/)
-+ React Native for Web[](https://necolas.github.io/react-native-web/)
++ [React Native for Web](https://necolas.github.io/react-native-web/)
++ [New in React 18](https://yagmurcetintas.com/journal/whats-new-in-react-18)
 
