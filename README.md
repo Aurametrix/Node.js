@@ -37,6 +37,9 @@
 
 [The Modern Javascript tutorial](https://javascript.info/)
 
+[GPU-accelerated javascript](https://gpu.rocks/#/)
+
+
 [ztext](https://bennettfeely.com/ztext/) - turns fonts 3D
 
 [Web-based note taking](https://github.com/taniarascia/takenote)
