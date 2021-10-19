@@ -108,6 +108,10 @@
     
 [Apple music player](https://developer.apple.com/documentation/musickitjs)
 
+[dStream](https://github.com/DusteDdk/dstream) - access music from the web
+
+
+
 [Video processing](https://github.com/yuanqing/vdx)
 
 [Kretes](https://kretes.dev/) - TypeScript + PostgreSQL
