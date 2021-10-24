@@ -20,6 +20,8 @@
 
 [Overture.js](http://overturejs.com/) - library for building slick web applications
 
+[cube.js](https://github.com/cube-js/cube.js) - open-source analytical API platform
+
 [Monero - XMR - mining app](https://github.com/bradoyler/xmr-miner)
 
 [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs)
