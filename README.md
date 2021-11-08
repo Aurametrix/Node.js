@@ -126,6 +126,9 @@
 [Tetris](https://github.com/hseager/tetris)
 
 
+[Scripting languages of the future](https://www.jntrnr.com/scripting-languages-of-the-future/)
+
+
 #### Interesting Projects
 
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
