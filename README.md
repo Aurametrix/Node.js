@@ -150,6 +150,7 @@
 + [CDC OpenViz](https://github.com/CDCgov/cdc-open-viz) - packages for data visualization
 + [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
 + [/my room in 3D](https://github.com/brunosimon/my-room-in-3d)
++ [Tau Prolog, Prolog interpreter in Javascript](http://tau-prolog.org/)
 
 + [Command-line calculator](https://github.com/PaddiM8/kalk/tree/master/kalk_mobile)
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
