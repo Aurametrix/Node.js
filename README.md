@@ -174,6 +174,7 @@
 + [Self-hosted LISP for Lua and JS](https://github.com/sctb/lumen)
 + [ChowJS](https://mp2.dk/techblog/chowjs/) - an AOT JavaScript engine for game consoles
 + Marvin, [a slackbot who doesn't like your ideas](https://github.com/keltrycroft/marvin)
++ [Node OS](https://node-os.com/) 
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [JS for shell scripting](https://github.com/google/zx)
