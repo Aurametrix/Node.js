@@ -31,3 +31,6 @@ Project home page: https://imicrobe.us
 Documentation: https://hurwitzlab.gitbook.io/imicrobe/
 
 Source code: https://github.com/hurwitzlab/elm-imicrobe-spa, https://github.com/hurwitzlab/node-imicrobe
+
+
+JS Genomics viewer: https://github.com/igvteam/igv.js/  
