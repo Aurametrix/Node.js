@@ -136,6 +136,7 @@
 + [another JS parser generator](https://github.com/gosukiwi/Pasukon) - [front page](https://pasukon.rocks/)
 + [1K JS demos](https://js1024.fun/results/2020)
 + [handwritten.js](https://github.com/alias-rahil/handwritten.js#README.md)
++ [Jiccupfx.js](https://hiccupfx.telnet.asia/)- makes the website shake
 + [ECMAScript2022](https://tc39.es/proposal-relative-indexing-method/) - array prototype.at
 + [Self-hosted bookmarking](https://webcrate.app/); [on github](https://github.com/WebCrateApp/webcrate)
 + [Web scraping](https://qoob.cc/web-scraping/)
