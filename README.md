@@ -116,6 +116,7 @@
 [dStream](https://github.com/DusteDdk/dstream) - access music from the web
 
 
+[Class Decorators](https://techsparx.com/nodejs/typescript/decorators/classes.html)
 
 [Video processing](https://github.com/yuanqing/vdx)
 
