@@ -156,6 +156,7 @@
 + [/my room in 3D](https://github.com/brunosimon/my-room-in-3d)
 + [Tau Prolog, Prolog interpreter in Javascript](http://tau-prolog.org/)
 + [Flow-field.js](https://github.com/romellogoodman/flow-field.js) - a library for generating flow fields
++ [QuickJS](https://bellard.org/quickjs/) - small and embeddable Javascript engine
 
 + [Command-line calculator](https://github.com/PaddiM8/kalk/tree/master/kalk_mobile)
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
