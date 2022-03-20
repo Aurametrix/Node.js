@@ -171,7 +171,7 @@
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
 + [Convert your excel sheet into Node.js app](https://recast.amplication.com/); [code](https://github.com/amplication/amplication)
 + [Voice assistant for VScode](https://github.com/b4rtaz/voice-assistant); [server code](https://github.com/b4rtaz/voice-assistant-net-server/blob/master/VoiceAssistant.Server/SpeechToText/SpeechToTextService.cs#L17)
-+ [ Zoom / Teams Open Source alternative for online learning](https://github.com/fmeringdal/nettu-meet)
++ [Zoom / Teams Open Source alternative for online learning](https://github.com/fmeringdal/nettu-meet)
 + [Nodejs binding for ibobs](https://github.com/stream-labs/obs-studio-node) - real time video composting
 + [HTML & CSS techniques ti reduce your JS](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
 + [A/B testing framework](https://github.com/growthbook/growthbook)
@@ -180,6 +180,7 @@
 + [Self-hosted LISP for Lua and JS](https://github.com/sctb/lumen)
 + [ChowJS](https://mp2.dk/techblog/chowjs/) - an AOT JavaScript engine for game consoles
 + Marvin, [a slackbot who doesn't like your ideas](https://github.com/keltrycroft/marvin)
++ [Tinder for Cats](https://github.com/theolivenbaum/tinder4cats); [demo](https://tinder4cats.com/)
 + [Node OS](https://node-os.com/) 
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
