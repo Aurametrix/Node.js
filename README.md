@@ -155,6 +155,7 @@
 + [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
 + [/my room in 3D](https://github.com/brunosimon/my-room-in-3d)
 + [Tau Prolog, Prolog interpreter in Javascript](http://tau-prolog.org/)
++ [ChemiScripts](https://github.com/jwilk/chemiscripts) -  Translate Chemical formulas in ASCII into Unicode
 + [Flow-field.js](https://github.com/romellogoodman/flow-field.js) - a library for generating flow fields
 + [QuickJS](https://bellard.org/quickjs/) - small and embeddable Javascript engine
 
