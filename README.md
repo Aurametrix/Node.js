@@ -122,6 +122,8 @@
 
 [Video processing](https://github.com/yuanqing/vdx)
 
+[Typescript as fast as Rust](https://zaplib.com/docs/blog_ts++.html)
+
 [Kretes](https://kretes.dev/) - TypeScript + PostgreSQL
 
 [Typed JavaScript at Any Scale](typescriptlang.org) - [announcement](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/)
