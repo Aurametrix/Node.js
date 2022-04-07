@@ -10,6 +10,8 @@
 
 [Web containers: Run Node is your web browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 
+[A whole website as a single js file](https://deno.com/blog/a-whole-website-in-a-single-js-file)
+
 [Web scriping avoid bot detection](https://github.com/niespodd/browser-fingerprinting)
 
 [When Node is the wrong tool for the job](https://medium.com/@jongleberry/when-node-js-is-the-wrong-tool-for-the-job-6d3325fac85c)
