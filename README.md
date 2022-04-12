@@ -6,6 +6,8 @@
 
 [Node is a bit tricky](https://blog.scottnonnenberg.com/node-js-is-not-magical/#a-bit-tricky)
 
+[NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/)
+
 [Deno](https://blog.appsignal.com/2022/02/09/an-introduction-to-deno-is-it-better-than-nodejs.html) - better than node.js?
 
 [Web containers: Run Node is your web browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
