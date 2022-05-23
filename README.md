@@ -148,9 +148,11 @@
 + [1K JS demos](https://js1024.fun/results/2020)
 + [handwritten.js](https://github.com/alias-rahil/handwritten.js#README.md)
 + [Jiccupfx.js](https://hiccupfx.telnet.asia/)- makes the website shake
++ [auto-animate](https://github.com/formkit/auto-animate) - add motion to your website
 + [ECMAScript2022](https://tc39.es/proposal-relative-indexing-method/) - array prototype.at
 + [Self-hosted bookmarking](https://webcrate.app/); [on github](https://github.com/WebCrateApp/webcrate)
 + [Web scraping](https://qoob.cc/web-scraping/)
++ [Puppeteer web scraping](https://www.openfaas.com/blog/puppeteer-scraping/)
 + [scraping wikipedia](https://billpg.com/data-mining-wikipedia/),  [ wikipedia markup parser](https://github.com/spencermountain/wtf_wikipedia)
 + [Raw XML dumps](https://dumps.wikimedia.org), [fully-featured API with a nice sandbox](https://en.wikipedia.org/wiki/Special:ApiSandbox), [Wikidata](https://wikidata.org).
 + [HN-blacklist](https://github.com/booleandilemma/hn-blacklist)
@@ -176,7 +178,7 @@
 + [CLI imge optimization tool](https://github.com/funbox/optimizt)
 + [Skia Canvas](https://github.com/samizdatco/skia-canvas)  - browser-less implementation of the HTML Canvas drawing API for Node.js
 + [Ganja.js](https://github.com/enkimute/ganja.js) - geometric algebra code genereator
-+ [Puppeteer web scraping](https://www.openfaas.com/blog/puppeteer-scraping/)
+
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
 + [Convert your excel sheet into Node.js app](https://recast.amplication.com/); [code](https://github.com/amplication/amplication)
 + [Voice assistant for VScode](https://github.com/b4rtaz/voice-assistant); [server code](https://github.com/b4rtaz/voice-assistant-net-server/blob/master/VoiceAssistant.Server/SpeechToText/SpeechToTextService.cs#L17)
