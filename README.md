@@ -173,6 +173,7 @@
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
 + [URL shortener](https://github.com/nelsontky/gh-pages-url-shortener)
 + [JSON logic](https://jsonlogic.com/)
++ [Vytal](https://github.com/z0ccc/Vytal) - Browser extension that spoofs your location data to match your VPN (github.com/z0ccc)
 + [Sentiment Analysis with Node.js](https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2)
 + [A DOS JavaScript Canvas with sound](https://github.com/SuperIlu/DOjS)
 + [CLI imge optimization tool](https://github.com/funbox/optimizt)
