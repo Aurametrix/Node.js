@@ -199,4 +199,5 @@
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [JS for shell scripting](https://github.com/google/zx)
++ [Bun](https://bun.sh/?launch) - fast all-in-one JavaScript runtime
 + [Shelljs](https://github.com/shelljs/shelljs) - portable Unix shell commands
