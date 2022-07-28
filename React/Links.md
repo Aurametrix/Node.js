@@ -21,5 +21,6 @@
 + [Twitter's html produced by REACT](https://giuseppegurgone.com/twitter-html/)
 + [React Native for Web](https://necolas.github.io/react-native-web/)
 + [New in React 18](https://yagmurcetintas.com/journal/whats-new-in-react-18)
++ [Writing React after 8 years](https://nesbtesh.medium.com/how-i-write-react-after-8-years-12cbf82c351)
 + [React compatibility library for a faster Virtual DOM](https://github.com/aidenybai/million); [demo](https://github.com/aidenybai/million-react-compat)
 
