@@ -174,7 +174,7 @@
 + [ChemiScripts](https://github.com/jwilk/chemiscripts) -  Translate Chemical formulas in ASCII into Unicode
 + [Flow-field.js](https://github.com/romellogoodman/flow-field.js) - a library for generating flow fields
 + [QuickJS](https://bellard.org/quickjs/) - small and embeddable Javascript engine
-
++ [Pathfinding visualizer](https://github.com/eoin-barr/pathfinding-visualizer) - [demo](https://pathfinding-visualizer-nu.vercel.app/)
 + [Command-line calculator](https://github.com/PaddiM8/kalk/tree/master/kalk_mobile)
 + [Will Deno replace Node?](https://www.geekyhacker.com/2020/05/19/is-node-js-dying/)
 + [URL shortener](https://github.com/nelsontky/gh-pages-url-shortener)
