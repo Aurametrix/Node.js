@@ -20,7 +20,7 @@
 
 [Elastic UI](https://elastic.github.io/eui/#/)
 
-[Web scriping avoid bot detection](https://github.com/niespodd/browser-fingerprinting)
+[Web scraping to avoid bot detection](https://github.com/niespodd/browser-fingerprinting)
 
 [When Node is the wrong tool for the job](https://medium.com/@jongleberry/when-node-js-is-the-wrong-tool-for-the-job-6d3325fac85c)
 
@@ -160,6 +160,7 @@
 + [Web scraping](https://qoob.cc/web-scraping/)
 + [Puppeteer web scraping](https://www.openfaas.com/blog/puppeteer-scraping/)
 + [scraping wikipedia](https://billpg.com/data-mining-wikipedia/),  [ wikipedia markup parser](https://github.com/spencermountain/wtf_wikipedia)
++ [improving website performance](https://www.npmjs.com/package/idle-task)
 + [Raw XML dumps](https://dumps.wikimedia.org), [fully-featured API with a nice sandbox](https://en.wikipedia.org/wiki/Special:ApiSandbox), [Wikidata](https://wikidata.org).
 + [HN-blacklist](https://github.com/booleandilemma/hn-blacklist)
 + [uPlot](https://github.com/leeoniya/uPlot)
