@@ -22,6 +22,7 @@
 
 [Chart.js](https://www.chartjs.org/)
 
+[Unovis](https://unovis.dev/) - A modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
 
 [Interactive Gaussian Process Visualization](http://www.infinitecuriosity.org/vizgp/) - [code](https://github.com/st--/interactive-gp-visualization/) -  built using Svelte, D3.js, and ml-matrix
 0
