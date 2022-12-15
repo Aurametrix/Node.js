@@ -119,6 +119,8 @@
 
 [CLUI](https://github.com/replit/clui) -  a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete / see also - building a [graphical command line](https://blog.repl.it/clui)
 
+[JS APIs you did not know about](https://www.smashingmagazine.com/2022/09/javascript-api-guide/): Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization
+
 [Web Audio API](https://github.com/sebpiq/WebPd)
 
     + see also [Web APIs](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
