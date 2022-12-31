@@ -153,6 +153,7 @@
 #### Interesting Projects
 
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
++ [Auth.js](https://authjs.dev/)
 + [JS parser](https://github.com/KFlash/seafox)
 + [another JS parser generator](https://github.com/gosukiwi/Pasukon) - [front page](https://pasukon.rocks/)
 + [1K JS demos](https://js1024.fun/results/2020)
