@@ -24,6 +24,9 @@
 
 [When Node is the wrong tool for the job](https://medium.com/@jongleberry/when-node-js-is-the-wrong-tool-for-the-job-6d3325fac85c)
 
+[From Ruby to Node](https://shopify.engineering/overhauling-shopify-cli-for-a-better-developer-experience)
+
+
 [The State of Javascript 2017](http://stateofjs.com/2017/introduction/)
 
 [Modern Javascript: Everything you missed over the last 10 years](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) /2020/
@@ -189,7 +192,8 @@
 + [Vytal](https://github.com/z0ccc/Vytal) - Browser extension that spoofs your location data to match your VPN (github.com/z0ccc)
 + [Sentiment Analysis with Node.js](https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2)
 + [A DOS JavaScript Canvas with sound](https://github.com/SuperIlu/DOjS)
-+ [CLI imge optimization tool](https://github.com/funbox/optimizt)
++ [CLI image optimization tool](https://github.com/funbox/optimizt)
++ [Open CLI](https://oclif.io/))
 + [Skia Canvas](https://github.com/samizdatco/skia-canvas)  - browser-less implementation of the HTML Canvas drawing API for Node.js
 + [Ganja.js](https://github.com/enkimute/ganja.js) - geometric algebra code genereator
 + [Color.js](https://svgees.us/blog/colorjs-release.html)
