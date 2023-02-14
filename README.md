@@ -155,6 +155,8 @@
 
 #### Interesting Projects
 
++ [DuckDuckGPT](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt)
++ [BuffChat](https://github.com/getbuff/Buff/tree/main/buffchat)
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 + [Auth.js](https://authjs.dev/)
 + [JS parser](https://github.com/KFlash/seafox)
