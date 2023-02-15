@@ -27,3 +27,9 @@
 [Interactive Gaussian Process Visualization](http://www.infinitecuriosity.org/vizgp/) - [code](https://github.com/st--/interactive-gp-visualization/) -  built using Svelte, D3.js, and ml-matrix
 0
 [vizualization of city roads](https://anvaka.github.io/city-roads/); (code)[https://github.com/anvaka/city-roads]
+
+### RATH
+
+* [RATH's Github](https://github.com/Kanaries/Rath)
+* [RATH's HomePage](https://kanaries.net/)
+* [Data Painter](https://docs.kanaries.net/rath/tutorials/data-painter/); [code](https://github.com/Kanaries/Rath)
