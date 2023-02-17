@@ -226,3 +226,4 @@
 + [JS for shell scripting](https://github.com/google/zx)
 + [Bun](https://bun.sh/?launch) - fast all-in-one JavaScript runtime
 + [Shelljs](https://github.com/shelljs/shelljs) - portable Unix shell commands
++ [Sandpack-2](https://codesandbox.io/blog/announcing-sandpack-2) - Node runtime that runs on any browser
