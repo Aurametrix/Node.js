@@ -126,6 +126,8 @@
 
 [JS APIs you did not know about](https://www.smashingmagazine.com/2022/09/javascript-api-guide/): Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization
 
+[AI teaching itself to learn an API](https://twitter.com/DYtweetshere/status/1631349179934203904)
+
 [Web Audio API](https://github.com/sebpiq/WebPd)
 
     + see also [Web APIs](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
