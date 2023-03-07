@@ -40,6 +40,8 @@
 
 [cube.js](https://github.com/cube-js/cube.js) - open-source analytical API platform
 
+[Total.js](https://www.totaljs.com/flow/) - low code altertnative
+
 [Metriport](https://github.com/metriport/metriport) - Universal API for Healthcare Data
 
 [Monero - XMR - mining app](https://github.com/bradoyler/xmr-miner)
