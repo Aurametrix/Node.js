@@ -164,6 +164,7 @@
 #### Interesting Projects
 
 + [DuckDuckGPT](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt)
++ [Promptr](https://github.com/ferrislucas/promptr) - use GPT to work on your own codebase
 + [BuffChat](https://github.com/getbuff/Buff/tree/main/buffchat)
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 + [Auth.js](https://authjs.dev/)
