@@ -22,6 +22,11 @@
 
 [Chart.js](https://www.chartjs.org/)
 
+[Deepscatter](https://github.com/nomic-ai/deepscatter) - 
+Zoomable, animated scatterplots in the browser that scales over a billion points
+[ArXiv Demo](https://observablehq.com/@bmschmidt/arxiv); [used in GPT4All](https://github.com/nomic-ai/gpt4all); [taxis demo](https://demo-taxis.heavy.ai/)
+
+
 [Unovis](https://unovis.dev/) - A modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
 
 [Interactive Gaussian Process Visualization](http://www.infinitecuriosity.org/vizgp/) - [code](https://github.com/st--/interactive-gp-visualization/) -  built using Svelte, D3.js, and ml-matrix
