@@ -22,6 +22,8 @@
 
 [Chart.js](https://www.chartjs.org/)
 
+[Observable Plot](https://observablehq.com/plot/) - the JavaScript library for exploratory data visualization
+
 [Deepscatter](https://github.com/nomic-ai/deepscatter) - 
 Zoomable, animated scatterplots in the browser that scales over a billion points
 [ArXiv Demo](https://observablehq.com/@bmschmidt/arxiv); [used in GPT4All](https://github.com/nomic-ai/gpt4all); [taxis demo](https://demo-taxis.heavy.ai/)
