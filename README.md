@@ -14,6 +14,8 @@
 
 [Web containers: Run Node is your web browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 
+[niui](https://niui.dev/) - Native Internet User Interface 3.0
+
 [A whole website as a single js file](https://deno.com/blog/a-whole-website-in-a-single-js-file)
 
 [Mirrorful](https://github.com/Mirrorful/mirrorful) - design systems framework: [demo](https://app.mirrorful.com/)
