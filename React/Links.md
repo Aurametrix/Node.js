@@ -23,5 +23,8 @@
 + [New in React 18](https://yagmurcetintas.com/journal/whats-new-in-react-18)
 + [Writing React after 8 years](https://nesbtesh.medium.com/how-i-write-react-after-8-years-12cbf82c351)
 + [React compatibility library for a faster Virtual DOM](https://github.com/aidenybai/million); [demo](https://github.com/aidenybai/million-react-compat)
++ [Next.js 13.4](https://nextjs.org/blog/next-13-4) - foundational release, marking stability for the App Router
+
+
 + [ChatGPT as the universal Redux reducer](https://spindas.dreamwidth.org/4207.html) - front end in React
 
