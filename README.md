@@ -229,6 +229,7 @@
 + [Self-hosted LISP for Lua and JS](https://github.com/sctb/lumen)
 + [ChowJS](https://mp2.dk/techblog/chowjs/) - an AOT JavaScript engine for game consoles
 + [mini Metroidvania game](https://arikwex.github.io/infernal-sigil/) - [code](https://github.com/arikwex/infernal-sigil)
++ [SineRider](https://github.com/hackclub/sinerider) - [to play](https://sinerider.com)
 + Marvin, [a slackbot who doesn't like your ideas](https://github.com/keltrycroft/marvin)
 + [Audio Transcription](https://github.com/mayeaux/generate-subtitles); [free transcription service](https://freesubtitles.ai/)
 + [Tinder for Cats](https://github.com/theolivenbaum/tinder4cats); [demo](https://tinder4cats.com/)
