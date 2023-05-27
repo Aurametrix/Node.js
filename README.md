@@ -169,6 +169,7 @@
 
 + [DuckDuckGPT](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt)
 + [Promptr](https://github.com/ferrislucas/promptr) - use GPT to work on your own codebase
++ [Bloop](https://github.com/BloopAI/bloop) - code-search engine that uses GPT-4 to answer questions about your code
 + [BuffChat](https://github.com/getbuff/Buff/tree/main/buffchat)
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 + [Auth.js](https://authjs.dev/)
