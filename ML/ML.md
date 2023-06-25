@@ -5,7 +5,11 @@
 + [API request to ChatGPT 4 with Next.js](https://medium.com/@JohanFriedner/make-an-api-request-to-chat-gpt-4-with-next-js-using-javascript-c238b47bd88a)
 + [CallGPT](https://dmingod.github.io/CallGPT/chat_gpt.html) - HTML API client; [Repo](https://github.com/dminGod/CallGPT)
 
-
++ [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
+     + getting can get an embedding via a simple fetch
+     + storing in Convex
+     + stpromg as a field in a table in schema
+     +  compare two vectors by dot product
 
 ### TensorFlow.js
 
@@ -14,4 +18,4 @@
 + [Quick start](https://ml5js.org/docs/quick-start)
 + [Video about deep learning using tensorflow.js: ](https://youtu.be/SV-cgdobtTA)
 
-)
+
