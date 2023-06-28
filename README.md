@@ -228,6 +228,8 @@
 + [Lemonadejs](https://lemonadejs.net/v1/) - a microlibrary for building web interfaces
 + [Alpinejs](https://alpinejs.dev/) - Vue without components
 + [Self-hosted LISP for Lua and JS](https://github.com/sctb/lumen)
++ [Web GPU renderer](https://www.construct.net/en/blogs/construct-official-blog-1/introducing-constructs-new-1768)
++ [GDevelop](https://github.com/4ian/GDevelop)
 + [ChowJS](https://mp2.dk/techblog/chowjs/) - an AOT JavaScript engine for game consoles
 + [mini Metroidvania game](https://arikwex.github.io/infernal-sigil/) - [code](https://github.com/arikwex/infernal-sigil)
 + [SineRider](https://github.com/hackclub/sinerider) - [to play](https://sinerider.com)
