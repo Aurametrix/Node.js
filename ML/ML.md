@@ -11,6 +11,10 @@
      + storing in Convex
      + stpromg as a field in a table in schema
      +  compare two vectors by dot product
+ 
+### Claude
++ [Claude-AI](https://github.com/Explosion-Scratch/claude-unofficial-api) - lightweight JavaScript library for interacting with the Claude AI chatbot's unofficial internal API
+
 
 ### TensorFlow.js
 
