@@ -132,6 +132,8 @@
 
 [Ordinary Puzzles mobile game](https://github.com/mmazzarolo/ordinary-puzzles-app)
 
+[Typechat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
+
 [CLUI](https://github.com/replit/clui) -  a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete / see also - building a [graphical command line](https://blog.repl.it/clui)
 
 [JS APIs you did not know about](https://www.smashingmagazine.com/2022/09/javascript-api-guide/): Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization
