@@ -244,6 +244,7 @@
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [Linen](https://github.com/Linen-dev/linen.dev) - Open-source Slack for communities 
 + [JS for shell scripting](https://github.com/google/zx)
++ [Notes on Programming Paradigms](https://tgdwyer.github.io/)
 + [Bun](https://bun.sh/?launch) - fast all-in-one JavaScript runtime
 + [Open AI PR reviewer](https://github.com/fluxninja/openai-pr-reviewer)
 + [Shelljs](https://github.com/shelljs/shelljs) - portable Unix shell commands
