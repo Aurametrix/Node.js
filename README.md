@@ -166,6 +166,8 @@
 
 [Scripting languages of the future](https://www.jntrnr.com/scripting-languages-of-the-future/)
 
+[5-2-rc](https://devblogs.microsoft.com/typescript/announcing-typescript-5-2-rc/)
+
 
 #### Interesting Projects
 
