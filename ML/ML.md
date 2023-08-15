@@ -5,6 +5,7 @@
 + [ChatHN](https://github.com/steven-tey/chathn) - HackerNews, built with Next.js, Vercel AI SDK, TailwindCSS
 + [API request to ChatGPT 4 with Next.js](https://medium.com/@JohanFriedner/make-an-api-request-to-chat-gpt-4-with-next-js-using-javascript-c238b47bd88a)
 + [CallGPT](https://dmingod.github.io/CallGPT/chat_gpt.html) - HTML API client; [Repo](https://github.com/dminGod/CallGPT)
++ AI-Powered Document Analysis [code](https://github.com/pashpashpash/vault-ai/blob/master/README.md)  [demo](https://vault.pash.city/)
 
 + [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
      + getting can get an embedding via a simple fetch
