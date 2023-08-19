@@ -160,7 +160,7 @@
 [Typed JavaScript at Any Scale](typescriptlang.org) - [announcement](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/)
 
 [Problems in 2020](https://www.executeprogram.com/blog/problems-with-typescript-in-2020)
-
+[2023: 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389) - [warnings](https://github.com/nodejs/node/pull/48890) 
 [Tetris](https://github.com/hseager/tetris)
 
 
