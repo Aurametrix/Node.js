@@ -6,6 +6,7 @@
 + [API request to ChatGPT 4 with Next.js](https://medium.com/@JohanFriedner/make-an-api-request-to-chat-gpt-4-with-next-js-using-javascript-c238b47bd88a)
 + [CallGPT](https://dmingod.github.io/CallGPT/chat_gpt.html) - HTML API client; [Repo](https://github.com/dminGod/CallGPT)
 + AI-Powered Document Analysis [code](https://github.com/pashpashpash/vault-ai/blob/master/README.md)  [demo](https://vault.pash.city/)
++ [GodMode](GodMode - the smol AI Chat Browser)  - the smol AI Chat Browser
 
 + [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
      + getting can get an embedding via a simple fetch
@@ -16,7 +17,10 @@
 ### Claude
 + [Claude-AI](https://github.com/Explosion-Scratch/claude-unofficial-api) - lightweight JavaScript library for interacting with the Claude AI chatbot's unofficial internal API
 
-
+###
++ [Dumbar](https://github.com/JerrySievert/Dumbar) - an easy way to make queries against multiple models
++ 
++ 
 ### TensorFlow.js
 
 + [a practical guide](https://blog.yellowant.com/tensorflow-js-a-practical-guide-2ed58327c455)
