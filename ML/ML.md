@@ -19,7 +19,7 @@
 
 ###
 + [Dumbar](https://github.com/JerrySievert/Dumbar) - an easy way to make queries against multiple models
-+ 
++ [Web LLM](https://webllm.mlc.ai/); [demo](https://webllm.mlc.ai/)
 + 
 ### TensorFlow.js
 
