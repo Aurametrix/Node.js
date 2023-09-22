@@ -7,6 +7,10 @@
 + [CallGPT](https://dmingod.github.io/CallGPT/chat_gpt.html) - HTML API client; [Repo](https://github.com/dminGod/CallGPT)
 + AI-Powered Document Analysis [code](https://github.com/pashpashpash/vault-ai/blob/master/README.md)  [demo](https://vault.pash.city/)
 + [GodMode](GodMode - the smol AI Chat Browser)  - the smol AI Chat Browser
++ [Odin](https://github.com/memgraph/odin) - the integration of LLMs with Obsidian note taking
+
+
+
 
 + [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
      + getting can get an embedding via a simple fetch
