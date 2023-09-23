@@ -84,7 +84,7 @@
    
    * [Faster JS calls](https://v8.dev/blog/adaptor-frame)
    
- [Node.js 14.x runtime in AWS Lambda](https://aws.amazon.com/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/)
+[Node.js 14.x runtime in AWS Lambda](https://aws.amazon.com/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/)
 
 [Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
@@ -112,7 +112,7 @@
 
 [HTTP/2](https://nodejs.org/api/http2.html#http2_http_2)
 
-[seelf-hosted offline Internet from browser history](https://github.com/c9fe/22120)
+[self-hosted offline Internet from browser history](https://github.com/c9fe/22120)
 
 [SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 
@@ -180,6 +180,7 @@
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 + [Auth.js](https://authjs.dev/)
 + [JS parser](https://github.com/KFlash/seafox)
++ tome[](https://github.com/boutell/tome/blob/main/README.md) - command-line text editor
 + [another JS parser generator](https://github.com/gosukiwi/Pasukon) - [front page](https://pasukon.rocks/)
 + [1K JS demos](https://js1024.fun/results/2020)
 + [handwritten.js](https://github.com/alias-rahil/handwritten.js#README.md)
