@@ -24,7 +24,9 @@
 ###
 + [Dumbar](https://github.com/JerrySievert/Dumbar) - an easy way to make queries against multiple models
 + [Web LLM](https://webllm.mlc.ai/); [demo](https://webllm.mlc.ai/)
-+ 
++ [Can my GPU run this LLM?](https://github.com/RahulSChand/gpu_poor)
+
+
 ### TensorFlow.js
 
 + [a practical guide](https://blog.yellowant.com/tensorflow-js-a-practical-guide-2ed58327c455)
