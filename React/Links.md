@@ -28,6 +28,7 @@
 + [Next.js 13.4](https://nextjs.org/blog/next-13-4) - foundational release, marking stability for the App Router
 + [Next.js AI chatbot template](https://chat.vercel.ai/)
 + [Next.js App Router Update](https://nextjs.org/blog/june-2023-update)
++ [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 
 
 + [ChatGPT as the universal Redux reducer](https://spindas.dreamwidth.org/4207.html) - front end in React
