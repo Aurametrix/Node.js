@@ -10,6 +10,7 @@
 + [Odin](https://github.com/memgraph/odin) - the integration of LLMs with Obsidian note taking
 
 
+[OpenAI Dev Tools](https://github.com/AndrewWalsh/openapi-devtools) - discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website
 
 
 + [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
