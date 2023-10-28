@@ -245,7 +245,8 @@
 + Marvin, [a slackbot who doesn't like your ideas](https://github.com/keltrycroft/marvin)
 + [Audio Transcription](https://github.com/mayeaux/generate-subtitles); [free transcription service](https://freesubtitles.ai/)
 + [Tinder for Cats](https://github.com/theolivenbaum/tinder4cats); [demo](https://tinder4cats.com/)
-+ [Node OS](https://node-os.com/) 
++ [Node OS](https://node-os.com/)
++ [Shadow](https://goose.icu/introducing-shadow/) - novel browser engine made almost entirely in JS
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [Linen](https://github.com/Linen-dev/linen.dev) - Open-source Slack for communities 
