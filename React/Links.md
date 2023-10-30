@@ -12,6 +12,7 @@
 
 + [33-line React](https://leontrolski.github.io/33-line-react.html)
 + [Build your own React](https://pomb.us/build-your-own-react/)
++ [Use C in your React](https://github.com/elnardu/react-use-c)
 
 + [Landing Page template](https://github.com/cruip/open-react-template) - example project, try Gatsby instead
 
