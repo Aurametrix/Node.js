@@ -18,6 +18,8 @@
 
 [A whole website as a single js file](https://deno.com/blog/a-whole-website-in-a-single-js-file)
 
+[JWT.js](https://jwt.is/) or [JWT io](https://jwt.io/) oe [JWT ms](https://jwt.ms/)
+
 [Mirrorful](https://github.com/Mirrorful/mirrorful) - design systems framework: [demo](https://app.mirrorful.com/)
 
 [Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
