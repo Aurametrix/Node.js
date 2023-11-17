@@ -6,6 +6,8 @@
 
 [Node is a bit tricky](https://blog.scottnonnenberg.com/node-js-is-not-magical/#a-bit-tricky)
 
+[Node.js v20 LTS](https://vercel.com/changelog/nodejs-20)
+
 [NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/)
 
 [Nexe](https://github.com/nexe/nexe) - crete a single executable out of your Node.js apps
