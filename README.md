@@ -38,6 +38,10 @@
 
 [From Ruby to Node](https://shopify.engineering/overhauling-shopify-cli-for-a-better-developer-experience)
 
+[Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/)
+
+[E-mail verifier with GPT & Node.js](https://chat.openai.com/g/g-0iqP3gBEv-next-level-email-verifier)
+
 
 [The State of Javascript 2017](http://stateofjs.com/2017/introduction/)
 
