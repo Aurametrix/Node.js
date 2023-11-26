@@ -257,6 +257,7 @@
 + [Tinder for Cats](https://github.com/theolivenbaum/tinder4cats); [demo](https://tinder4cats.com/)
 + [Node OS](https://node-os.com/)
 + [Shadow](https://goose.icu/introducing-shadow/) - novel browser engine made almost entirely in JS
++ [Fun with Sockets](https://github.com/Momciloo/fun-with-sockets)
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [Linen](https://github.com/Linen-dev/linen.dev) - Open-source Slack for communities 
@@ -264,5 +265,6 @@
 + [Notes on Programming Paradigms](https://tgdwyer.github.io/)
 + [Bun](https://bun.sh/?launch) - fast all-in-one JavaScript runtime
 + [Open AI PR reviewer](https://github.com/fluxninja/openai-pr-reviewer)
++ [ChatBot Portal for Multi-Modal GPT-4 API](https://github.com/Zaki-1052/GPTPortal)
 + [Shelljs](https://github.com/shelljs/shelljs) - portable Unix shell commands
 + [Sandpack-2](https://codesandbox.io/blog/announcing-sandpack-2) - Node runtime that runs on any browser
