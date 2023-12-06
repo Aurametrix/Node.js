@@ -51,6 +51,7 @@
 
 [Modern JS](https://modernjs.fyi/); [tutorial](https://javascript.info/)
 
+[Modern JS Frameworks](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 
 [Overture.js](http://overturejs.com/) - library for building slick web applications
 
