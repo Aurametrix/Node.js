@@ -201,6 +201,7 @@
 + [Voby](/https://github.com/vobyjs/voby)
 + [Svelte.js](https://github.com/sveltejs/svelte); [svelte](https://svelte.dev/)
 + [Solid.js](https://www.solidjs.com/resources)
++ [Octopus turbo](https://github.com/bbsimonbb/octopus-turbo) - Modelling your UI as a directed acyclic graph.
 + [auto-animate](https://github.com/formkit/auto-animate) - add motion to your website
 + [ECMAScript2022](https://tc39.es/proposal-relative-indexing-method/) - array prototype.at
 + [Self-hosted bookmarking](https://webcrate.app/); [on github](https://github.com/WebCrateApp/webcrate)
