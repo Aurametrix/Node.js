@@ -146,6 +146,8 @@
 
 [Ordinary Puzzles mobile game](https://github.com/mmazzarolo/ordinary-puzzles-app)
 
+[Pong Game](https://github.com/Ramzi-Abidi/Pong)
+
 [Typechat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
 
 [CLUI](https://github.com/replit/clui) -  a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete / see also - building a [graphical command line](https://blog.repl.it/clui)
