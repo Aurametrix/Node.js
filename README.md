@@ -175,6 +175,10 @@
 
 [Typed JavaScript at Any Scale](typescriptlang.org) - [announcement](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/)
 
+[Tabgod](https://github.com/devidw/tabgod) - 	Execute any JavaScript from any browser tab on any browser tab
+
+[Cross-tab communication](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
+
 [Problems in 2020](https://www.executeprogram.com/blog/problems-with-typescript-in-2020)
 [2023: 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389) - [warnings](https://github.com/nodejs/node/pull/48890) 
 [Tetris](https://github.com/hseager/tetris)
