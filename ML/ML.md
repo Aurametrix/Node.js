@@ -12,8 +12,9 @@
 
 [OpenAI Dev Tools](https://github.com/AndrewWalsh/openapi-devtools) - discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website
 
-[REason](https://github.com/try-reason/reason) - The minimalistic Typescript framework for building great LLM apps.
+[Reason](https://github.com/try-reason/reason) - The minimalistic Typescript framework for building great LLM apps.
 
+[REOR](https://github.com/reorproject/reor) -  open-source AI note-taking app that runs models locally
 
 + [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
      + getting can get an embedding via a simple fetch
