@@ -243,7 +243,8 @@
 + [Skia Canvas](https://github.com/samizdatco/skia-canvas)  - browser-less implementation of the HTML Canvas drawing API for Node.js
 + [Ganja.js](https://github.com/enkimute/ganja.js) - geometric algebra code genereator
 + [Color.js](https://svgees.us/blog/colorjs-release.html)
-+ []YC idea matcher(https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in before. [the app](https://yc-idea-matcher.vercel.app/)
++ [YC idea matcher](https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in before. [the app](https://yc-idea-matcher.vercel.app/)
++ [Side Generator for Data Apps](https://observablehq.com/blog/observable-2-0)
 
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
 + [Convert your excel sheet into Node.js app](https://recast.amplication.com/); [code](https://github.com/amplication/amplication)
