@@ -217,6 +217,7 @@
 + [improving website performance](https://www.npmjs.com/package/idle-task)
 + [Raw XML dumps](https://dumps.wikimedia.org), [fully-featured API with a nice sandbox](https://en.wikipedia.org/wiki/Special:ApiSandbox), [Wikidata](https://wikidata.org).
 + [HN-blacklist](https://github.com/booleandilemma/hn-blacklist)
++ [Run JS from a python program](https://bpcreech.com/post/mini-racer/)
 + [uPlot](https://github.com/leeoniya/uPlot)
 + [Slider](https://adit.co.uk/sliderulev2.html)
 + [COVID-19 visualizations](https://vida.io/dashboards/ck9thqbxl00000umrd0u2pmdj) - [code](https://github.com/vidalab/vida)
