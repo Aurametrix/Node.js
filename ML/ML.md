@@ -55,7 +55,8 @@
 * [Worm_Neuroevolution](https://github.com/Ghassen-Chaabouni/machine_learning_games/tree/master/Worm_Neuroevolution): A simulation of a worm learning how to jump with Neuroevolution.
 
   ###
-* [Fill3D.AI](https://github.com/fill3d/fill) - 
+* [Fill3D.AI](https://github.com/fill3d/fill) -Generative Fill in 3D. This project is a stripped-down version of fill3d.ai. Fill 3D is powered by Function
+* [JS Torch](https://github.com/eduardoleao052/js-torch) - PyTorch in JavaScript
 
 
 
