@@ -29,6 +29,7 @@
 + [Dumbar](https://github.com/JerrySievert/Dumbar) - an easy way to make queries against multiple models
 + [Web LLM](https://webllm.mlc.ai/); [demo](https://webllm.mlc.ai/)
 + [Can my GPU run this LLM?](https://github.com/RahulSChand/gpu_poor)
++ [Locally Running Perplexity Clone](https://github.com/nilsherzig/LLocalSearch)
 
 
 ### TensorFlow.js
