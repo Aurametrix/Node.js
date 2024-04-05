@@ -163,6 +163,7 @@
 [Apple music player](https://developer.apple.com/documentation/musickitjs)
 
 [dStream](https://github.com/DusteDdk/dstream) - access music from the web
+[Tonal.js](https://github.com/tonaljs/tonal) - functional music theory library
 
 
 [Class Decorators](https://techsparx.com/nodejs/typescript/decorators/classes.html)
