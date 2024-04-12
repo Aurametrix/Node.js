@@ -37,6 +37,8 @@ Zoomable, animated scatterplots in the browser that scales over a billion points
 
 [Motion Canvas](https://github.com/motion-canvas/motion-canvas) - visualize complex ideas programmatically
 
+[RIPL](https://github.com/andrewcourtice/ripl) - library for data visualization in both SVG and Canvas 
+
 ### RATH
 
 * [RATH's Github](https://github.com/Kanaries/Rath)
