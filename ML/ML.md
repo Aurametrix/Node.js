@@ -6,8 +6,9 @@
 + [API request to ChatGPT 4 with Next.js](https://medium.com/@JohanFriedner/make-an-api-request-to-chat-gpt-4-with-next-js-using-javascript-c238b47bd88a)
 + [CallGPT](https://dmingod.github.io/CallGPT/chat_gpt.html) - HTML API client; [Repo](https://github.com/dminGod/CallGPT)
 + AI-Powered Document Analysis [code](https://github.com/pashpashpash/vault-ai/blob/master/README.md)  [demo](https://vault.pash.city/)
-+ [GodMode](GodMode - the smol AI Chat Browser)  - the smol AI Chat Browser
++ [GodMode](https://github.com/smol-ai/GodMode))  - the smol AI Chat Browser
 + [Odin](https://github.com/memgraph/odin) - the integration of LLMs with Obsidian note taking
++ [Multi-AI Agent Systems](https://github.com/metaskills/experts)
 
 
 [OpenAI Dev Tools](https://github.com/AndrewWalsh/openapi-devtools) - discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website
