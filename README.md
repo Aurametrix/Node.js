@@ -130,6 +130,8 @@
 
 [Quest](https://www.twilio.com/quest)  - game to help learn Javascript
 
+[Kaplay.js](https://kaplayjs.com/kaplayjs.com) -  JavaScript library that helps you make games fast and fun
+
 [Not Java script](https://observablehq.com/@observablehq/observables-not-javascript)
 
 [Eloquent JS](https://eloquentjavascript.net/)
