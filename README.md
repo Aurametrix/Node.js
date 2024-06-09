@@ -148,6 +148,8 @@
 
 [Ordinary Puzzles mobile game](https://github.com/mmazzarolo/ordinary-puzzles-app)
 
+[Untrusted](https://alexnisnevich.github.io/untrusted/) - adventure game
+
 [Pong Game](https://github.com/Ramzi-Abidi/Pong)
 
 [Typechat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
