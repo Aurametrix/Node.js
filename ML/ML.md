@@ -6,6 +6,7 @@
 + [API request to ChatGPT 4 with Next.js](https://medium.com/@JohanFriedner/make-an-api-request-to-chat-gpt-4-with-next-js-using-javascript-c238b47bd88a)
 + [CallGPT](https://dmingod.github.io/CallGPT/chat_gpt.html) - HTML API client; [Repo](https://github.com/dminGod/CallGPT)
 + AI-Powered Document Analysis [code](https://github.com/pashpashpash/vault-ai/blob/master/README.md)  [demo](https://vault.pash.city/)
++ [Thread](https://github.com/squaredtechnologies/thread) -  AI-powered Jupyter Notebook built using React 
 + [GodMode](https://github.com/smol-ai/GodMode))  - the smol AI Chat Browser
 + [Odin](https://github.com/memgraph/odin) - the integration of LLMs with Obsidian note taking
 + [Multi-AI Agent Systems](https://github.com/metaskills/experts)
