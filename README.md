@@ -259,6 +259,7 @@
 + [Voice assistant for VScode](https://github.com/b4rtaz/voice-assistant); [server code](https://github.com/b4rtaz/voice-assistant-net-server/blob/master/VoiceAssistant.Server/SpeechToText/SpeechToTextService.cs#L17)
 + [Zoom / Teams Open Source alternative for online learning](https://github.com/fmeringdal/nettu-meet)
 + [Nodejs binding for ibobs](https://github.com/stream-labs/obs-studio-node) - real time video composting
++ [Revideo](https://github.com/redotvideo/revideo) - create videos with code
 + [HTML & CSS techniques ti reduce your JS](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
 + [A/B testing framework](https://github.com/growthbook/growthbook)
 + [Eloquent JavaScript](https://eloquentjavascript.net/)
