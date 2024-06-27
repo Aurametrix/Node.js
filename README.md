@@ -176,6 +176,8 @@
 
 [Typescript as fast as Rust](https://zaplib.com/docs/blog_ts++.html)
 
+[Top JS frameworks for interactive mind maps](https://prorobot.ai/en/articles/top-5-javascript-frameworks-for-crafting-interactive-mind-maps-from-data-graphs)
+
 [Kretes](https://kretes.dev/) - TypeScript + PostgreSQL
 
 [Typed JavaScript at Any Scale](typescriptlang.org) - [announcement](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/)
