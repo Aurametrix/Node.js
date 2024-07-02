@@ -94,6 +94,7 @@
    * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
    
    * [Faster JS calls](https://v8.dev/blog/adaptor-frame)
+   * [Optimizing JS](https://romgrk.com/posts/optimizing-javascript)
    
 [Node.js 14.x runtime in AWS Lambda](https://aws.amazon.com/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/)
 [Hidden Performance Costs](https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs)
