@@ -196,6 +196,8 @@
 
 [5-2-rc](https://devblogs.microsoft.com/typescript/announcing-typescript-5-2-rc/)
 
+[Open Source Minimal Blogging Platform](https://github.com/themanafov/nucelo)
+
 
 #### Interesting Projects
 
