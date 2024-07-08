@@ -26,6 +26,8 @@
 
 [Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
+[QuickJS](https://github.com/sebastianwessel/quickjs) - WebAssembly Quick JS sandbox
+
 
 
 [Tipi](https://github.com/meienberger/runtipi) - a personal homeserver for everyone
