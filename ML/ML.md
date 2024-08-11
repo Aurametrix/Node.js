@@ -18,6 +18,8 @@
 
 [REOR](https://github.com/reorproject/reor) -  open-source AI note-taking app that runs models locally
 
+[Nouse.AI](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
+
 + [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
      + getting can get an embedding via a simple fetch
      + storing in Convex
