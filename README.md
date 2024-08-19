@@ -172,6 +172,8 @@
 [dStream](https://github.com/DusteDdk/dstream) - access music from the web
 [Tonal.js](https://github.com/tonaljs/tonal) - functional music theory library
 
+[Melodisco](https://github.com/all-in-aigc/melodisco) - open source AI music player
+
 
 [Class Decorators](https://techsparx.com/nodejs/typescript/decorators/classes.html)
 
