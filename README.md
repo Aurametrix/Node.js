@@ -266,6 +266,7 @@
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
 + [Convert your excel sheet into Node.js app](https://recast.amplication.com/); [code](https://github.com/amplication/amplication)
 + [Voice assistant for VScode](https://github.com/b4rtaz/voice-assistant); [server code](https://github.com/b4rtaz/voice-assistant-net-server/blob/master/VoiceAssistant.Server/SpeechToText/SpeechToTextService.cs#L17)
++ [Omi, previously Friend](https://github.com/BasedHardware/Omi) - Open Source AI wearable necklace
 + [Zoom / Teams Open Source alternative for online learning](https://github.com/fmeringdal/nettu-meet)
 + [Nodejs binding for ibobs](https://github.com/stream-labs/obs-studio-node) - real time video composting
 + [Revideo](https://github.com/redotvideo/revideo) - create videos with code
