@@ -294,6 +294,7 @@
 + [Linen](https://github.com/Linen-dev/linen.dev) - Open-source Slack for communities 
 + [JS for shell scripting](https://github.com/google/zx)
 + [Notes on Programming Paradigms](https://tgdwyer.github.io/)
++ [Concurrency & Parallelism](https://www.rugu.dev/en/blog/concurrency-and-parallelism/)
 + [Bun](https://bun.sh/?launch) - fast all-in-one JavaScript runtime
 + [Open AI PR reviewer](https://github.com/fluxninja/openai-pr-reviewer)
 + [ChatBot Portal for Multi-Modal GPT-4 API](https://github.com/Zaki-1052/GPTPortal)
