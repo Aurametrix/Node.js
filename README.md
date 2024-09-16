@@ -65,6 +65,8 @@
 
 [Cami.js](https://github.com/kennyfrc/cami.js) - for light web dom components
 
+[Phinxer, Open Source Web Analytics](https://github.com/gnardini/analytics)
+
 [Metriport](https://github.com/metriport/metriport) - Universal API for Healthcare Data
 
 [Monero - XMR - mining app](https://github.com/bradoyler/xmr-miner)
