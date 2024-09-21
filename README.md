@@ -243,7 +243,8 @@
 + [Coronavirus Vaccine Progress in England](https://covid-vaccine.louisirwin.co.uk/) - [code](https://github.com/lirwin3007/covid-vax) - [data](https://coronavirus.data.gov.uk/details/developers-guide)
 + [CDC OpenViz](https://github.com/CDCgov/cdc-open-viz) - packages for data visualization
 + [Virtual Reality DOS](https://github.com/sonictruth/vr-dos)
-+ [/my room in 3D](https://github.com/brunosimon/my-room-in-3d)
++ [my room in 3D](https://github.com/brunosimon/my-room-in-3d)
++ [AnySkin](https://any-skin.github.io/) -  skin sensor made for robotic touch that is easy to assemble, compatible with different robot end-effectors and generalizes to new skin instances
 + [Tau Prolog, Prolog interpreter in Javascript](http://tau-prolog.org/)
 + [Tablane](https://github.com/Tablane/tablane) - workspace that adapts to your needs
 + [ChemiScripts](https://github.com/jwilk/chemiscripts) -  Translate Chemical formulas in ASCII into Unicode
