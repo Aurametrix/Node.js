@@ -294,6 +294,7 @@
 + [Fun with Sockets](https://github.com/Momciloo/fun-with-sockets)
 + [An Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
 + [Flipdisc](https://flipdisc.io/) - Flipdisc display
++ [QRframe](https://github.com/zhengkyl/qrframe) - generate beautiful QR codes
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [Linen](https://github.com/Linen-dev/linen.dev) - Open-source Slack for communities 
