@@ -38,4 +38,5 @@
 
 + [ChatGPT as the universal Redux reducer](https://spindas.dreamwidth.org/4207.html) - front end in React
 + [Fuzz Map](https://www.fuzzmap.io/?welcome=1)
++ [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - open source Sourcegraph alternative
 
