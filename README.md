@@ -94,6 +94,8 @@
 
 [Web-based note taking](https://github.com/taniarascia/takenote)
 
+[Web Scraping with your Web Browser](https://8chananon.github.io/tut/scraping1.html)
+
 
 + Performance optimization
    * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
