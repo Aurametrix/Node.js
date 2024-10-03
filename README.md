@@ -13,6 +13,7 @@
 [Nexe](https://github.com/nexe/nexe) - crete a single executable out of your Node.js apps
 
 [Deno](https://blog.appsignal.com/2022/02/09/an-introduction-to-deno-is-it-better-than-nodejs.html) - better than node.js?
+[Tiny.js](https://github.com/victorqribeiro/TinyJS) - lightweight JavaScript library for dynamically creating HTML elements with deep property assignment.
 
 [Web containers: Run Node is your web browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 
