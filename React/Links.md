@@ -34,6 +34,7 @@
 + [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 + [Million](https://million.dev/blog/million-3.en-US) - Optimizing Compiler for React
 + [Deploying a basic React site — Part 1](https://jpegsfiles.medium.com/deploying-a-basic-react-site-part-1-setting-up-a-kubernetes-cluster-hosted-on-a-home-server-8db517d2bcda) - Setting up a Kubernetes cluster hosted on a home server
++ [React framework for web and native](https://onestack.dev/)
 
 
 + [ChatGPT as the universal Redux reducer](https://spindas.dreamwidth.org/4207.html) - front end in React
