@@ -21,6 +21,8 @@
 
 [A whole website as a single js file](https://deno.com/blog/a-whole-website-in-a-single-js-file)
 
+[ARIA DevTools](https://github.com/ziolko/aria-devtools) - see your website the way screen readers present it to the blind users. [blog](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck?pli=1)
+
 [JWT.js](https://jwt.is/) or [JWT io](https://jwt.io/) oe [JWT ms](https://jwt.ms/)
 
 [Mirrorful](https://github.com/Mirrorful/mirrorful) - design systems framework: [demo](https://app.mirrorful.com/)
