@@ -36,6 +36,8 @@
 + [Web LLM](https://webllm.mlc.ai/); [demo](https://webllm.mlc.ai/)
 + [Can my GPU run this LLM?](https://github.com/RahulSChand/gpu_poor)
 + [Locally Running Perplexity Clone](https://github.com/nilsherzig/LLocalSearch)
++ [Gen AI scripting](https://microsoft.github.io/genaiscript/)
+
 
 
 ### TensorFlow.js
