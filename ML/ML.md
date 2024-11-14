@@ -20,6 +20,9 @@
 
 [Nouse.AI](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 
+
+[Copilot Edits](https://code.visualstudio.com/blogs/2024/11/12/introducing-copilot-edits) - GitHub Copilot in VS Code
+
 + [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
      + getting can get an embedding via a simple fetch
      + storing in Convex
