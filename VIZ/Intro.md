@@ -35,6 +35,8 @@ Zoomable, animated scatterplots in the browser that scales over a billion points
 0
 [vizualization of city roads](https://anvaka.github.io/city-roads/); (code)[https://github.com/anvaka/city-roads]
 
+[jsontr.ee](https://github.com/xzitlou/jsontr.ee) - ightweight JavaScript library that transforms JSON data into beautifully rendered, interactive tree diagrams using SVG
+
 [Motion Canvas](https://github.com/motion-canvas/motion-canvas) - visualize complex ideas programmatically
 
 [RIPL](https://github.com/andrewcourtice/ripl) - library for data visualization in both SVG and Canvas 
