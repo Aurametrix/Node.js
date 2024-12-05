@@ -98,6 +98,10 @@
 
 [Web Scraping with your Web Browser](https://8chananon.github.io/tut/scraping1.html)
 
+[web-highlighter userscript](https://github.com/physicslog/web-highlighter.user.js)
+
+[web highlighter](https://gitlab.com/histre/browser-extension/-/blob/master/highlight.js?ref_type=heads)
+
 
 + Performance optimization
    * [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
