@@ -225,6 +225,7 @@
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 + [Auth.js](https://authjs.dev/)
 + [Universal Logger](https://adzejs.com/)
++ [Stagehand](https://github.com/browserbase/stagehand) - the easiest way to build browser automations
 + [JS parser](https://github.com/KFlash/seafox)
 + tome[](https://github.com/boutell/tome/blob/main/README.md) - command-line text editor
 + [another JS parser generator](https://github.com/gosukiwi/Pasukon) - [front page](https://pasukon.rocks/)
