@@ -40,6 +40,7 @@
 + [Can my GPU run this LLM?](https://github.com/RahulSChand/gpu_poor)
 + [Locally Running Perplexity Clone](https://github.com/nilsherzig/LLocalSearch)
 + [Gen AI scripting](https://microsoft.github.io/genaiscript/)
++ [Open Source AI Video Editor](https://github.com/fal-ai-community/video-starter-kit)
 
 
 
