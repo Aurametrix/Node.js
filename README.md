@@ -185,6 +185,8 @@
 
 [Melodisco](https://github.com/all-in-aigc/melodisco) - open source AI music player
 
+[Meelo](https://github.com/Arthi-chaud/Meelo) - self-hosted music server
+
 
 [Class Decorators](https://techsparx.com/nodejs/typescript/decorators/classes.html)
 
