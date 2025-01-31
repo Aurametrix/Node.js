@@ -85,6 +85,8 @@
 
 [Effective Javascript](http://effectivejs.com/)
 
+[JS Temporal](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+
 [ENV](https://humanwhocodes.com/blog/2021/02/introducing-env-javascript-environment-variables/): a better way to read environment variables in JavaScript
 
 [The Modern Javascript tutorial](https://javascript.info/)
