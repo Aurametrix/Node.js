@@ -39,6 +39,8 @@
 
 [Web scraping to avoid bot detection](https://github.com/niespodd/browser-fingerprinting)
 
+[Simple URL 🌐 to Screenshots 📷 API](https://github.com/US-Artificial-Intelligence/scraper)
+
 [When Node is the wrong tool for the job](https://medium.com/@jongleberry/when-node-js-is-the-wrong-tool-for-the-job-6d3325fac85c)
 
 [From Ruby to Node](https://shopify.engineering/overhauling-shopify-cli-for-a-better-developer-experience)
