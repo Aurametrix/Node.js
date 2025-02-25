@@ -33,6 +33,8 @@
 + [Claude-AI](https://github.com/Explosion-Scratch/claude-unofficial-api) - lightweight JavaScript library for interacting with the Claude AI chatbot's unofficial internal API
 + [Claude Memory(https://github.com/deshraj/claude-memory) - Chrome extension that enhances your interaction with Claude by providing memory functionality
 + [Notes on the new Claude analysis JavaScript code execution tool](https://simonwillison.net/2024/Oct/24/claude-analysis-tool/)
++ [claude-code](https://github.com/anthropics/claude-code/tree/main/.devcontainer)
++ [Claude code overview](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 
 ###
 + [Dumbar](https://github.com/JerrySievert/Dumbar) - an easy way to make queries against multiple models
