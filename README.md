@@ -49,6 +49,8 @@
 
 [E-mail verifier with GPT & Node.js](https://chat.openai.com/g/g-0iqP3gBEv-next-level-email-verifier)
 
+[Humanify](https://github.com/jehna/humanify) - This tool uses large language modeles (like ChatGPT & llama) and other tools to deobfuscate, unminify, transpile, decompile and unpack Javascript code
+
 
 [The State of Javascript 2017](http://stateofjs.com/2017/introduction/)
 
