@@ -56,6 +56,8 @@
 
 [Bun 1.0](https://bun.sh/blog/bun-v1.0) - a fast, all-in-one toolkit for running, building, testing, and debugging JavaScript and TypeScript, from a single file to a full-stack application.
 
+[A 10X faster Typescript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
+
 [Modern Javascript: Everything you missed over the last 10 years](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) /2020/
 
 [Modern JS](https://modernjs.fyi/); [tutorial](https://javascript.info/)
