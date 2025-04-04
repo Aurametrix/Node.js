@@ -250,6 +250,7 @@
 + [Octopus turbo](https://github.com/bbsimonbb/octopus-turbo) - Modelling your UI as a directed acyclic graph.
 + [DrawDB](https://github.com/drawdb-io/drawdb) - online database diagram editor : [app](https://drawdb.vercel.app/)
 + [auto-animate](https://github.com/formkit/auto-animate) - add motion to your website
++ [anime.js](https://animejs.com/) - animator's toolbox
 + [ECMAScript2022](https://tc39.es/proposal-relative-indexing-method/) - array prototype.at
 + [Self-hosted bookmarking](https://webcrate.app/); [on github](https://github.com/WebCrateApp/webcrate)
 + [Web scraping](https://qoob.cc/web-scraping/)
