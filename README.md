@@ -101,6 +101,7 @@
 
 
 [ztext](https://bennettfeely.com/ztext/) - turns fonts 3D
+[uWrap](https://github.com/leeoniya/uWrap) - a faster and more accurate text wrapping
 
 [Web-based note taking](https://github.com/taniarascia/takenote)
 
