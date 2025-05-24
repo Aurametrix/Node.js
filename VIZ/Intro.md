@@ -2,6 +2,8 @@
 
 [D3 on github](https://github.com/d3)
 
+[mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text 
+
 [Bivariate maps with React and D3](https://github.com/angelozehr/bivariate-maps-react-d3)
 
 [DC](https://github.com/dc-js/dc.js), dimensional charting
