@@ -72,7 +72,8 @@
   ###
 * [Fill3D.AI](https://github.com/fill3d/fill) -Generative Fill in 3D. This project is a stripped-down version of fill3d.ai. Fill 3D is powered by Function
 * [JS Torch](https://github.com/eduardoleao052/js-torch) - PyTorch in JavaScript
-* [ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Use Third Party LLM API in JetBrains AI Assistant 
+* [ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Use Third Party LLM API in JetBrains AI Assistant
+* [On device Gen AI use cases](https://github.com/google-ai-edge/gallery); [On-device cross-platform AI deployment] ([ai.google.dev)](https://ai.google.dev/edge))
 
 
 
