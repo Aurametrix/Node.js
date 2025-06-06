@@ -10,6 +10,7 @@
 + [GodMode](https://github.com/smol-ai/GodMode))  - the smol AI Chat Browser
 + [Odin](https://github.com/memgraph/odin) - the integration of LLMs with Obsidian note taking
 + [Multi-AI Agent Systems](https://github.com/metaskills/experts)
++ [Claude Composer CLI](https://github.com/possibilities/claude-composer)
 
 
 [OpenAI Dev Tools](https://github.com/AndrewWalsh/openapi-devtools) - discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website
