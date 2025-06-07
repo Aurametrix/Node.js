@@ -245,6 +245,7 @@
 + [handwritten.js](https://github.com/alias-rahil/handwritten.js#README.md)
 + [Jiccupfx.js](https://hiccupfx.telnet.asia/)- makes the website shake
 + [Cample.js](https://github.com/Camplejs/Cample.js) - web framework for creating site UI
++ [odyc.js](https://odyc.dev/) - Play to create Games
 + [Voby](/https://github.com/vobyjs/voby)
 + [Svelte.js](https://github.com/sveltejs/svelte); [svelte](https://svelte.dev/)
 + [Solid.js](https://www.solidjs.com/resources)
