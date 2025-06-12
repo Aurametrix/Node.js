@@ -25,6 +25,8 @@
 
 [JWT.js](https://jwt.is/) or [JWT io](https://jwt.io/) oe [JWT ms](https://jwt.ms/)
 
+[Spark.js](https://sparkjs.dev/) - An advanced 3D Gaussian Splatting renderer for THREE.js
+
 [Mirrorful](https://github.com/Mirrorful/mirrorful) - design systems framework: [demo](https://app.mirrorful.com/)
 
 [Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
