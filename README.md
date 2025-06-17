@@ -27,6 +27,8 @@
 
 [Spark.js](https://sparkjs.dev/) - An advanced 3D Gaussian Splatting renderer for THREE.js
 
+[](https://punk.cam/lab/nexus) - Nexus.js - Fabric.js for 3D 
+
 [Mirrorful](https://github.com/Mirrorful/mirrorful) - design systems framework: [demo](https://app.mirrorful.com/)
 
 [Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
