@@ -21,6 +21,7 @@
 
 [Nouse.AI](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 
+[Trieve CLI ](https://github.com/devflowinc/trieve/tree/main/clients/cli) – Terminal-based LLM agent loop with search tool for PDFs 
 
 [Copilot Edits](https://code.visualstudio.com/blogs/2024/11/12/introducing-copilot-edits) - GitHub Copilot in VS Code
 
