@@ -76,7 +76,8 @@
 * [JS Torch](https://github.com/eduardoleao052/js-torch) - PyTorch in JavaScript
 * [ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Use Third Party LLM API in JetBrains AI Assistant
 * [On device Gen AI use cases](https://github.com/google-ai-edge/gallery); [On-device cross-platform AI deployment] ([ai.google.dev)](https://ai.google.dev/edge))
-* [Agentic systems](https://gerred.github.io/building-an-agentic-system/))
+* [Agentic systems](https://gerred.github.io/building-an-agentic-system/)
+* [Opencode](https://github.com/sst/opencode) - AI coding agent built for the terminal
 
 
 
