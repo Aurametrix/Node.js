@@ -329,6 +329,7 @@
 + [Flipdisc](https://flipdisc.io/) - Flipdisc display
 + [QRframe](https://github.com/zhengkyl/qrframe) - generate beautiful QR codes
 + [CSV to HTML](https://github.com/derekeder/csv-to-html-table)
++ [epanet-js](https://macwright.com/2025/07/03/epanet-placemark) - new web application that combines modern web maps with the industry-standard EPANET hydraulic simulation algorithm. It’s for people planning and updating water utility systems
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [Linen](https://github.com/Linen-dev/linen.dev) - Open-source Slack for communities 
