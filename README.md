@@ -320,6 +320,7 @@
 + [SineRider](https://github.com/hackclub/sinerider) - [to play](https://sinerider.com)
 + Marvin, [a slackbot who doesn't like your ideas](https://github.com/keltrycroft/marvin)
 + [Audio Transcription](https://github.com/mayeaux/generate-subtitles); [free transcription service](https://freesubtitles.ai/)
++ [Piano Trainer](https://github.com/ZaneH/piano-trainer)
 + [Tinder for Cats](https://github.com/theolivenbaum/tinder4cats); [demo](https://tinder4cats.com/)
 + [Node OS](https://node-os.com/)
 + [Shadow](https://goose.icu/introducing-shadow/) - novel browser engine made almost entirely in JS
