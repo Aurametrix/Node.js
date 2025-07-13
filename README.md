@@ -10,6 +10,8 @@
 
 [NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/)
 
+[Node.js core working groups](https://github.com/nodejs/TSC/blob/main/WORKING_GROUPS.md)
+
 [Nexe](https://github.com/nexe/nexe) - crete a single executable out of your Node.js apps
 
 [Deno](https://blog.appsignal.com/2022/02/09/an-introduction-to-deno-is-it-better-than-nodejs.html) - better than node.js?
