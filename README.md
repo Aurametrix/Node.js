@@ -235,6 +235,8 @@
 
 [Open Source Minimal Blogging Platform](https://github.com/themanafov/nucelo)
 
+[tsints](https://github.com/easrng/tsints) - a parser for typescript types, written in typescript types (no js)
+
 
 #### Interesting Projects
 
