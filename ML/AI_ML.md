@@ -78,6 +78,7 @@
 * [On device Gen AI use cases](https://github.com/google-ai-edge/gallery); [On-device cross-platform AI deployment] ([ai.google.dev)](https://ai.google.dev/edge))
 * [Agentic systems](https://gerred.github.io/building-an-agentic-system/)
 * [Opencode](https://github.com/sst/opencode) - AI coding agent built for the terminal
+* [AiXiv](https://github.com/aixiv-org/aiXiv) - Multi-Agent Platform for AI-Driven Scientific Research (paper: https://arxiv.org/abs/2508.15126)
 
 
 
