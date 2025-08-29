@@ -35,6 +35,8 @@
 
 [Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
+[You no longer need javascript](https://lyra.horse/blog/2025/08/you-dont-need-js/)
+
 [QuickJS](https://github.com/sebastianwessel/quickjs) - WebAssembly Quick JS sandbox
 
 
