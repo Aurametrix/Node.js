@@ -249,6 +249,7 @@
 + [Circuit breaker](https://blog.bearer.sh/build-a-circuit-breaker-in-node-js/)
 + [Auth.js](https://authjs.dev/)
 + [Universal Logger](https://adzejs.com/)
++ [MiKaPo](https://github.com/AmyangXYZ/MiKaPo)   - MediaPipe extracts 3D landmarks from your camera feed Custom hierarchical solver converts landmarks to MMD bone rotations Real-time 3D rendering with Babylon.js. Built with Next.js, TypeScript, and runs entirely in browser. The pose solver handles the complex math of converting computer vision landmarks into proper character bone rotations
 + [Stagehand](https://github.com/browserbase/stagehand) - the easiest way to build browser automations
 + [JS parser](https://github.com/KFlash/seafox)
 + tome[](https://github.com/boutell/tome/blob/main/README.md) - command-line text editor
