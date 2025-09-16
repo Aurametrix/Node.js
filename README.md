@@ -144,6 +144,7 @@
 [D3](https://github.com/d3/d3/blob/master/CHANGES.md) - 6.0
 [Visualization with D3](https://datacrayon.com/shop/product/visualisation-with-d3/)
 [React + D3.js](https://wattenberger.com/blog/react-and-d3) 
+[React is winning by default](https://www.lorenstew.art/blog/react-won-by-default/)
 
 [jspaint in a browser](https://github.com/i5ik/jspaint.exe)
 
