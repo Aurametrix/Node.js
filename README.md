@@ -36,6 +36,8 @@
 [Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
 [You no longer need javascript](https://lyra.horse/blog/2025/08/you-dont-need-js/)
+[No CSS, No Javascript](https://jch.github.io/posts/2025-09-18-no-css-no-js.html)
+[a better future for javascript](https://drewdevault.com/2025/09/17/2025-09-17-An-impossible-future-for-JS.html)
 
 [QuickJS](https://github.com/sebastianwessel/quickjs) - WebAssembly Quick JS sandbox
 
