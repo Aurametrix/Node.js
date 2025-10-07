@@ -43,6 +43,9 @@ Zoomable, animated scatterplots in the browser that scales over a billion points
 
 [RIPL](https://github.com/andrewcourtice/ripl) - library for data visualization in both SVG and Canvas 
 
+[perfect-graph](https://github.com/maastrichtlawtech/perfect-graph) - Create perfect graph visualisations easily - []GraphDoc](https://maastrichtlawtech.github.io/graphdoc/)
+
+
 ### RATH
 
 * [RATH's Github](https://github.com/Kanaries/Rath)
