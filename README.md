@@ -68,6 +68,8 @@
 
 [A 10X faster Typescript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
 
+[bolt-ts](https://github.com/bvanjoi/bolt-ts) - Typescript compiler implemented in Rust
+
 [Open Source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 
 [Modern Javascript: Everything you missed over the last 10 years](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) /2020/
