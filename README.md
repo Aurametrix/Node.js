@@ -224,6 +224,8 @@
 
 [Typed JavaScript at Any Scale](typescriptlang.org) - [announcement](https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/)
 
+[Davia](https://github.com/davialabs/davia) -  open-source tool that generates interactive internal documentation for your local codebase
+
 [Tabgod](https://github.com/devidw/tabgod) - 	Execute any JavaScript from any browser tab on any browser tab
 
 [Cross-tab communication](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
