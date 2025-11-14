@@ -42,4 +42,5 @@
 + [Fuzz Map](https://www.fuzzmap.io/?welcome=1)
 + [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - open source Sourcegraph alternative
 + [](https://overreacted.io/progressive-json/) - progressive json
++ [Audarma](https://github.com/audarma/audarma) - LLM-powered translation system for React/Next.js - translate dynamic content with smart caching
 
