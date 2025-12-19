@@ -29,6 +29,8 @@
 
 [Spark.js](https://sparkjs.dev/) - An advanced 3D Gaussian Splatting renderer for THREE.js
 
+[picknplace.js](https://jgthms.com/picknplace.js/) - an alternative to drag and drop
+
 [](https://punk.cam/lab/nexus) - Nexus.js - Fabric.js for 3D 
 
 [Mirrorful](https://github.com/Mirrorful/mirrorful) - design systems framework: [demo](https://app.mirrorful.com/)
