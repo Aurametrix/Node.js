@@ -8,6 +8,8 @@
 
 [Node.js v20 LTS](https://vercel.com/changelog/nodejs-20)
 
+[Sharp](https://github.com/lovell/sharp) - high performance Node.js library for image processing/optimization
+
 [NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/)
 
 [Node.js core working groups](https://github.com/nodejs/TSC/blob/main/WORKING_GROUPS.md)
