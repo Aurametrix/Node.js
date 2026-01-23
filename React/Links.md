@@ -36,6 +36,7 @@
 + [Deploying a basic React site — Part 1](https://jpegsfiles.medium.com/deploying-a-basic-react-site-part-1-setting-up-a-kubernetes-cluster-hosted-on-a-home-server-8db517d2bcda) - Setting up a Kubernetes cluster hosted on a home server
 + [React framework for web and native](https://onestack.dev/)
 + [React for interactive CLI apps](https://github.com/vadimdemedes/ink)
++ [30 yers of React OS](https://reactos.org/blogs/30yrs-of-ros/); [reactOS on github](https://github.com/reactos) -- instead of Windows, nothing to do with React.js, just a namesake
 
 
 + [ChatGPT as the universal Redux reducer](https://spindas.dreamwidth.org/4207.html) - front end in React
