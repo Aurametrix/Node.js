@@ -41,6 +41,7 @@
 ###
 + [Dumbar](https://github.com/JerrySievert/Dumbar) - an easy way to make queries against multiple models
 + [Web LLM](https://webllm.mlc.ai/); [demo](https://webllm.mlc.ai/)
++ [Clawdot](https://github.com/clawdbot/clawdbot) - open source personal AI assistant
 + [Can my GPU run this LLM?](https://github.com/RahulSChand/gpu_poor)
 + [Locally Running Perplexity Clone](https://github.com/nilsherzig/LLocalSearch)
 + [Gen AI scripting](https://microsoft.github.io/genaiscript/)
