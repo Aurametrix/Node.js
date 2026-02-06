@@ -55,6 +55,7 @@
 + [Keras models](https://js.tensorflow.org/tutorials/import-keras.html)
 + [Quick start](https://ml5js.org/docs/quick-start)
 + [Video about deep learning using tensorflow.js: ](https://youtu.be/SV-cgdobtTA)
++ [Nanobot](https://github.com/HKUDS/nanobot) - Ultra-Lightweight Personal AI Assistant
 
 ### Machine Learning Games
 
