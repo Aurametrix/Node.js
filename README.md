@@ -111,6 +111,8 @@
 
 [JS Temporal](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 
+[AGF[(https://github.com/subinium/agf) - A fast TUI to find, resume, and manage your AI coding agent sessions. Supports Claude Code, Codex, OpenCode, pi, and Kiro
+
 [ENV](https://humanwhocodes.com/blog/2021/02/introducing-env-javascript-environment-variables/): a better way to read environment variables in JavaScript
 
 [The Modern Javascript tutorial](https://javascript.info/)
