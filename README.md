@@ -352,7 +352,8 @@
 + [QRframe](https://github.com/zhengkyl/qrframe) - generate beautiful QR codes
 + [CSV to HTML](https://github.com/derekeder/csv-to-html-table)
 + [epanet-js](https://macwright.com/2025/07/03/epanet-placemark) - new web application that combines modern web maps with the industry-standard EPANET hydraulic simulation algorithm. It’s for people planning and updating water utility systems
-+ [HPML](https://hmpl-lang.dev/introduction/) - Alternative to Htmx and Alpine.js 
++ [HPML](https://hmpl-lang.dev/introduction/) - Alternative to Htmx and Alpine.js
++ [Visualizw Global Weather](https://earth.nullschool.net/) - [Earth on Github](https://github.com/cambecc/earth)
 
 + [Serverless stack](https://github.com/serverless-stack/serverless-stack) - SST is a framework for building serverless apps on AWS
 + [Linen](https://github.com/Linen-dev/linen.dev) - Open-source Slack for communities 
