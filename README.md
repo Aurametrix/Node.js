@@ -105,6 +105,8 @@
 
 [Modern JS explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
+[Streams API for JS](https://blog.cloudflare.com/a-better-web-streams-api/)
+
 [Book Series: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 
 [Effective Javascript](http://effectivejs.com/)
