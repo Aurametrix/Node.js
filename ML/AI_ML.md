@@ -25,6 +25,8 @@
 
 [Copilot Edits](https://code.visualstudio.com/blogs/2024/11/12/introducing-copilot-edits) - GitHub Copilot in VS Code
 
+[understudy](https://github.com/understudy-ai/understudy) - teachable desktop agent
+
 + [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
      + getting can get an embedding via a simple fetch
      + storing in Convex
