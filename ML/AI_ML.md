@@ -83,6 +83,7 @@
 * [Agentic systems](https://gerred.github.io/building-an-agentic-system/)
 * [Opencode](https://github.com/sst/opencode) - AI coding agent built for the terminal
 * [AiXiv](https://github.com/aixiv-org/aiXiv) - Multi-Agent Platform for AI-Driven Scientific Research (paper: https://arxiv.org/abs/2508.15126)
+* [Krag](https://github.com/SaurabhJain708/krag) - Serverless RAG Agent
 
 
 
