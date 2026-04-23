@@ -368,6 +368,7 @@
 + [Bun](https://bun.sh/?launch) - fast all-in-one JavaScript runtime
 + [Open AI PR reviewer](https://github.com/fluxninja/openai-pr-reviewer)
 + [Gerbil](https://github.com/lone-cloud/gerbil) - for running LLMs locally
++ [Ycombinator submit](https://github.com/eishops23/agent-sdk)
 + [Austen](https://github.com/herol3oy/austen) - AI-powered Angular application initialized with Analogjs to generate story relationships between book characters using Mermaidjs diagrams
 + [ChatBot Portal for Multi-Modal GPT-4 API](https://github.com/Zaki-1052/GPTPortal)
 + [Shelljs](https://github.com/shelljs/shelljs) - portable Unix shell commands
