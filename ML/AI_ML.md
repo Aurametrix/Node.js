@@ -81,6 +81,7 @@
 * [ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Use Third Party LLM API in JetBrains AI Assistant
 * [On device Gen AI use cases](https://github.com/google-ai-edge/gallery); [On-device cross-platform AI deployment] ([ai.google.dev)](https://ai.google.dev/edge))
 * [Agentic systems](https://gerred.github.io/building-an-agentic-system/)
+* [Open Envelope](https://openenvelope.org/docs/schema/) - an open schema for defining AI agent teams
 * [Opencode](https://github.com/sst/opencode) - AI coding agent built for the terminal
 * [AiXiv](https://github.com/aixiv-org/aiXiv) - Multi-Agent Platform for AI-Driven Scientific Research (paper: https://arxiv.org/abs/2508.15126)
 * [Krag](https://github.com/SaurabhJain708/krag) - Serverless RAG Agent
