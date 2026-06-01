@@ -85,6 +85,7 @@
 * [Opencode](https://github.com/sst/opencode) - AI coding agent built for the terminal
 * [AiXiv](https://github.com/aixiv-org/aiXiv) - Multi-Agent Platform for AI-Driven Scientific Research (paper: https://arxiv.org/abs/2508.15126)
 * [Krag](https://github.com/SaurabhJain708/krag) - Serverless RAG Agent
+* [vault operator](https://github.com/pssah4/vault-operator) - An autonomous AI agent inside your Obsidian vault.
 
 
 
