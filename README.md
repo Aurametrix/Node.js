@@ -4,6 +4,8 @@
 
 [Node.js](https://nodejs.org/en/)
 
+[npmv12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+
 [Node is a bit tricky](https://blog.scottnonnenberg.com/node-js-is-not-magical/#a-bit-tricky)
 
 [Node.js v20 LTS](https://vercel.com/changelog/nodejs-20)
