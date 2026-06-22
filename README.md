@@ -224,6 +224,8 @@
 
 [Meelo](https://github.com/Arthi-chaud/Meelo) - self-hosted music server
 
+[bsharp](https://github.com/paytonjjones/bsharp) - Perfect Pitch Trainer
+
 
 [Class Decorators](https://techsparx.com/nodejs/typescript/decorators/classes.html)
 
