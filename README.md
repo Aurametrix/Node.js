@@ -343,6 +343,7 @@
 + [Eloquent JavaScript](https://eloquentjavascript.net/)
 + [Lemonadejs](https://lemonadejs.net/v1/) - a microlibrary for building web interfaces
 + [Alpinejs](https://alpinejs.dev/) - Vue without components
++ [JQuery is slow](https://www.mida.so/blog/jquery-is-slow) - jQuery 4
 + [Self-hosted LISP for Lua and JS](https://github.com/sctb/lumen)
 + [Web GPU renderer](https://www.construct.net/en/blogs/construct-official-blog-1/introducing-constructs-new-1768)
 + [GDevelop](https://github.com/4ian/GDevelop)
