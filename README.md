@@ -378,3 +378,4 @@
 + [ChatBot Portal for Multi-Modal GPT-4 API](https://github.com/Zaki-1052/GPTPortal)
 + [Shelljs](https://github.com/shelljs/shelljs) - portable Unix shell commands
 + [Sandpack-2](https://codesandbox.io/blog/announcing-sandpack-2) - Node runtime that runs on any browser
++ [PeerTube](https://github.com/Chocobozzz/PeerTube) -  decentralized and federated video platform
