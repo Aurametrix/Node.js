@@ -11,6 +11,7 @@
 + [Odin](https://github.com/memgraph/odin) - the integration of LLMs with Obsidian note taking
 + [Multi-AI Agent Systems](https://github.com/metaskills/experts)
 + [Claude Composer CLI](https://github.com/possibilities/claude-composer)
++ [Claudoro](https://github.com/emson/claudoro) - A Pomodoro timer that lives inside the Claude Code terminal
 
 
 [OpenAI Dev Tools](https://github.com/AndrewWalsh/openapi-devtools) - discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website
