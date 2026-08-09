@@ -330,6 +330,8 @@
 + [YC idea matcher](https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in before. [the app](https://yc-idea-matcher.vercel.app/)
 + [Side Generator for Data Apps](https://observablehq.com/blog/observable-2-0)
 + [Word Cloud](https://github.com/claushellsing/JsCloud)
++ [Linkedin Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
++ [older Simple feed](https://github.com/mihailthebuilder/simplyfeed)
 
 + [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs
 + [Convert your excel sheet into Node.js app](https://recast.amplication.com/); [code](https://github.com/amplication/amplication)
