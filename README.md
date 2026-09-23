@@ -45,6 +45,7 @@
 [No CSS, No Javascript](https://jch.github.io/posts/2025-09-18-no-css-no-js.html)
 [a better future for javascript](https://drewdevault.com/2025/09/17/2025-09-17-An-impossible-future-for-JS.html)
 [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
+[the Javascript midlife crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/)
 
 [QuickJS](https://github.com/sebastianwessel/quickjs) - WebAssembly Quick JS sandbox
 
