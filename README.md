@@ -113,6 +113,8 @@
 
 [Streams API for JS](https://blog.cloudflare.com/a-better-web-streams-api/)
 
+[Little JS](https://frankforce.com/littlejs-is-2d-and-3d-now/)
+
 [Book Series: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 
 [Effective Javascript](http://effectivejs.com/)
