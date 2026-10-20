@@ -78,6 +78,9 @@
 
 [bolt-ts](https://github.com/bvanjoi/bolt-ts) - Typescript compiler implemented in Rust
 
+[LaMiNaR](https://github.com/lmnr-ai/lmnr) - wrutten in ts and Rust - finds errors in agent traces
+
+
 [Modo](https://github.com/mohshomis/modo) - open-source AI IDE that plans before it codes
 
 [Open Source fitness coaching platform](https://github.com/Snouzy/workout-cool)
